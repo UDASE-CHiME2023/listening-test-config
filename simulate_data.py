@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Mar 27 10:51:25 2023
-
-@author: sleglaive
+Script to simulate data for developing the listening test software.
 """
 
 import os
