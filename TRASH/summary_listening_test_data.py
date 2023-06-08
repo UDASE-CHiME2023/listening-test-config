@@ -190,4 +190,179 @@ for session in list_session:
 
 for i, df_block in enumerate(df_blocks):
     distributions['block_'+str(i+1)] = [round(x/len(df_block)*100) for x in distributions['block_'+str(i+1)]]
-    df_block.to_csv('block_'+str(i+1)+'.csv')
+
+sys.exit()
+
+#%% tree with speakers
+
+from anytree import Node, RenderTree
+
+from anytree.dotexport import RenderTreeGraph
+
+import yaml
+from anytree import AnyNode
+from anytree.exporter import DictExporter
+import json
+
+
+list_session = list(df['session'].unique())
+list_n_spk = list(df['n_spk'].unique())
+list_sex = list(df['sex'].unique())
+list_location = list(df['location'].unique())
+
+nodes_session = []
+nodes_location = []
+nodes_n_spk = []
+nodes_sex = []
+nodes_speakers = []
+
+node_dataset = Node('dataset')
+
+for session in list_session:
+    
+    label = session
+    
+    node_session = Node(label, parent=node_dataset)
+    
+    nodes_session.append(node_session)
+    
+    for location in list_location:
+        
+        label = session + '_' + location
+        
+        node_location = Node(label, parent=node_session)
+        
+        nodes_location.append(node_location)
+        
+        for n_spk in list_n_spk:
+            
+            label = session + '_' + location + '_' + str(n_spk)
+            
+            node_n_spk = Node(label, parent=node_location)
+            
+            nodes_n_spk.append(node_n_spk)
+            
+            for sex in list_sex:
+                
+                label = session + '_' + location + '_' + str(n_spk) + '_' + sex
+                
+                node_sex = Node(label, parent=node_n_spk)
+                
+                nodes_sex.append(node_sex)
+                
+                sub_df = df[(df['session']==session) & 
+                           (df['location']==location) & 
+                           (df['n_spk']==n_spk) & 
+                           (df['sex']==sex)]
+                
+                
+                list_speakers = list(sub_df['speakers'].unique())
+                
+                for speakers in list_speakers:
+                    
+                    label = session + '_' + location + '_' + str(n_spk) + '_' + sex + '_' + speakers
+                    
+                    node_speakers = Node(label, parent = node_sex)
+                    
+                    nodes_speakers.append(node_speakers)
+                    
+                    sub_df = df[(df['session']==session) & 
+                               (df['location']==location) & 
+                               (df['n_spk']==n_spk) & 
+                               (df['sex']==sex) & 
+                               (df['speakers']==speakers)]
+                    
+                
+                    for index, row in sub_df.iterrows():
+                        
+                        wavfile = row['wavfile']
+                        node_wavfile = Node(wavfile, parent=node_speakers)
+                    
+dct = DictExporter().export(node_dataset)
+
+with open('dataset.json', 'w') as file:
+    json.dump(dct, file, indent=4)     
+    
+RenderTreeGraph(nodes_session[0]).to_picture("S01.svg")
+RenderTreeGraph(nodes_session[1]).to_picture("S21.svg")
+
+
+# print(RenderTree(node_dataset))
+
+#%%
+
+
+
+list_session = list(df['session'].unique())
+list_n_spk = list(df['n_spk'].unique())
+list_sex = list(df['sex'].unique())
+list_location = list(df['location'].unique())
+
+nodes_session = []
+nodes_location = []
+nodes_n_spk = []
+nodes_sex = []
+nodes_speakers = []
+
+node_dataset = Node('dataset')
+
+conditions = {'name':[], 'num_el':[]}
+
+for session in list_session:
+    
+    label = session
+    
+    node_session = Node(label, parent=node_dataset)
+    
+    nodes_session.append(node_session)
+    
+    for location in list_location:
+        
+        label = session + '_' + location
+        
+        node_location = Node(label, parent=node_session)
+        
+        nodes_location.append(node_location)
+
+        for sex in list_sex:
+            
+            label = session + '_' + location  + '_' + sex
+            
+            node_sex = Node(label, parent=node_location)
+            
+            nodes_sex.append(node_sex)
+            
+            sub_df = df[(df['session']==session) & 
+                       (df['location']==location) & 
+                       (df['sex']==sex)]
+            
+            conditions['name'].append(node_sex.name)
+            conditions['num_el'].append(len(sub_df))
+            
+            for index, row in sub_df.iterrows():
+                
+                wavfile = row['wavfile']
+                node_wavfile = Node(wavfile, parent=node_sex)
+                    
+dct = DictExporter().export(node_dataset)
+
+with open('dataset.json', 'w') as file:
+    json.dump(dct, file, indent=4)     
+    
+RenderTreeGraph(nodes_session[0]).to_picture("S01.svg")
+RenderTreeGraph(nodes_session[1]).to_picture("S21.svg")
+
+
+#%%
+
+import matplotlib.pyplot as plt
+
+plt.close('all')
+plt.bar(conditions['name'], conditions['num_el'])
+plt.xticks(rotation=30)
+
+#%%
+
+with open('dataset.json', 'r') as file:
+
+    dataset_dict = json.load(file)

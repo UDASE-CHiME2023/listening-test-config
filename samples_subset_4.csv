@@ -1,0 +1,33 @@
+,wavfile,duration,duration_0_spk,duration_1_spk,duration_2_spk,duration_3_spk,n_spk,speakers,sex,session,location,transcription
+3,S01_P01_3.wav,4.78,1.49,3.28,0.01,0.00,2,P03 P04,FM,S01,dining,(P03) Hmm.  What did you study there? (P04) Um I did psychology. 
+74,S01_P04_21.wav,4.49,1.33,1.99,1.17,0.00,2,P01 P03,FM,S01,dining,"(P03) Hmm. (P01) But once we ac- , yeah once we actually start doing it we'll need. (P03) So practical. "
+26,S01_P02_6.wav,4.28,0.93,2.66,0.69,0.00,2,P01 P03 P04,FM,S01,dining,(P04) Oh. It's still [inaudible 1:21:52.44]  K maybe you guys can hold it. Yeah. (P01) Oh. (P03) Think your phone's big enough. 
+56,S01_P04_3.wav,4.99,1.14,2.07,1.33,0.45,3,P01 P02 P03,FM,S01,dining,(P03) Hmm. (P01) Good old memories from university. [laughs] (P02) [laughs] (P03) Mhm. (P02) [laughs] 
+8,S01_P01_8.wav,4.73,0.55,3.89,0.29,0.00,2,P02 P03 P04,FM,S01,dining,(P04) Oh you should tell him to come watch you.  No it's too much pressure. (P02) No I could watch if you were playing here. [laughs] (P03) [laughs] 
+23,S01_P02_3.wav,4.99,0.52,2.91,1.55,0.01,3,P01 P03 P04,FM,S01,dining,(P04) I avoided downtown. (P01) Oh right I remember you said that. (P03) [laughs] (P04) Yeah. Oh I checked out the Starbucks Reserve. 
+41,S01_P03_5.wav,4.38,0.91,3.47,0.00,0.00,1,P01 P04,F,S01,dining,"(P01) Yeah. (P04) What else do I need, tomatoes? Actually I'm just gonna walk over. "
+48,S01_P03_12.wav,4.99,0.93,3.59,0.47,0.00,2,P01 P04,F,S01,dining,(P01) Yeah it's fun. I like it when people get into sports I like. [laughs] (P04) [laughs] 
+113,S01_P04_60.wav,4.99,1.46,3.53,0.00,0.00,1,P03,M,S01,dining,"(P03) So your entire Whats, like your tennis WhatsApp, like how many people are in that? "
+14,S01_P01_14.wav,4.99,1.46,2.35,0.24,0.94,3,P02 P03 P04,FM,S01,living,(P04) [noise] Oh anchor? [inaudible 1:56:18.25] (P02) Oh. (P03) Anchor. 
+30,S01_P02_10.wav,4.00,0.67,1.73,0.16,1.44,3,P01 P03 P04,FM,S01,living,"(P03) K superstars all right, play this back again. (P04) This way? This way. (P01) Oh no the other way. Yeah. Yeah. [noise] (P03) No other way. Yeah. "
+78,S01_P04_25.wav,4.60,1.42,1.26,1.92,0.00,2,P01 P02 P03,FM,S01,living,(P03) Okay so I'll flip it over.  At the beginning? (P02) One two three. (P01) One two three. 
+109,S01_P04_56.wav,4.99,1.81,2.05,1.13,0.00,2,P02 P03,FM,S01,kitchen,"(P03) Yeah I'll take this one out, put it in uh (P02) Okay. That'll probably fit in this one. (P03) Yeah. "
+18,S01_P01_18.wav,4.00,0.92,1.24,1.84,0.00,2,P03 P04,FM,S01,kitchen,"(P03) Yeah. (P04) I think this is how you [inaudible 0:22:48.81]? (P03) I think it should be easier, yeah. "
+111,S01_P04_58.wav,4.99,0.79,0.34,3.09,0.77,3,P01 P02 P03,FM,S01,kitchen,"(P02) I don't know, gonna be [inaudible 1:41:50.73] (P03) Like like this? (P01) [laughs] Oh we can try, this one or Spot It. "
+207,S21_P47_1.wav,4.99,0.79,4.20,0.00,0.00,1,P45 P46,FM,S21,dining,"(P46) Are you going to try TO make it on your own one time, Bennett? (P45) [noise] Mm, maybe.  [noise] "
+183,S21_P46_18.wav,4.99,1.69,3.30,0.00,0.00,1,P45,M,S21,dining,(P45) Let's just put the meat in the middle cuz I don't get any of these veggies. 
+126,S21_P45_7.wav,4.16,0.63,0.27,1.61,1.65,3,P46 P47 P48,FM,S21,living,"(P46) Oh! (P47) You guys are all fighting for sashimi. (P48) Competition, competition. (P46) Who's going to get it first? "
+209,S21_P47_3.wav,4.99,1.04,3.95,0.00,0.00,1,P45 P46,FM,S21,living,"(P45) How how'd you play Sushi Go again? I forget. (P46) Well, we're going to figure it out together. "
+213,S21_P47_7.wav,4.99,1.29,1.57,2.13,0.00,2,P45 P46 P48,FM,S21,living,(P45) Nigiri. (P46) Chopsticks. (P45) Ah! You took my dumpling! (P46) Mhm. (P48) Yeah? 
+138,S21_P45_19.wav,4.00,0.98,2.48,0.54,0.00,2,P46 P47 P48,FM,S21,living,(P48) Yeah. (P46) Useless. Useless. (P47) We all got a useless one. 
+136,S21_P45_17.wav,4.99,0.64,1.95,1.00,1.40,3,P46 P47 P48,FM,S21,living,"(P46) Hold your horses, Basher. [laughs] (P47) [laughs] (P48) [laughs] "
+162,S21_P45_43.wav,4.99,0.56,4.43,0.00,0.00,1,P46,F,S21,living,"(P46) Um, I think that I will "
+195,S21_P46_30.wav,4.85,1.73,3.12,0.00,0.00,1,P48,F,S21,living,"(P48) Um.  Okay, Go Sushi Go. "
+192,S21_P46_27.wav,4.99,1.85,3.14,0.00,0.00,1,P45 P47,M,S21,living,"(P47) It's okay, the two rounds are official. (P45) Well, I can shuffle now? "
+225,S21_P47_19.wav,4.99,1.51,2.03,1.28,0.17,3,P45 P46 P48,FM,S21,kitchen,"(P45) Hey, let's use big words.  To make it difficult. [laughs] (P48) [laughs] (P46) What? "
+232,S21_P47_26.wav,4.99,1.13,2.63,1.23,0.00,2,P45 P46,FM,S21,kitchen,"(P45) Two thirds (P46) Ounces is so, um, not, uh, metric. [laughs] "
+222,S21_P47_16.wav,4.99,1.39,2.95,0.65,0.00,2,P45 P46,FM,S21,kitchen,"(P46) I got the soft ones for us, too. (P45) Heat oven to three fifty. "
+144,S21_P45_25.wav,4.66,0.73,0.73,3.20,0.00,2,P45 P46 P47,FM,S21,kitchen,"(P45) Why, you almost ripped your ear off at home? (P46) No, when I get mad, I whip my I whip my braid, right, yeah? (P47) Uh, let's just say Tia wasn't very happy. "
+150,S21_P45_31.wav,4.00,0.97,1.94,1.09,0.00,2,P45 P46 P47,FM,S21,kitchen,"(P45) Nope, no tinkle. (P47) I thought you said you had to go (P46) Oh, Charles, you, uh, missed a spot here. "
+220,S21_P47_14.wav,4.90,1.73,2.49,0.68,0.00,2,P45 P46,FM,S21,kitchen,"(P46) Oh, okay.  Okay, can you get the stuff out of the fridge that we need? (P45) Okay. "
+204,S21_P46_39.wav,4.77,1.29,3.48,0.00,0.00,1,P45 P46,M,S21,kitchen,"(P46) Yeah, cups would be good. (P45) I was gonna put the drinks in uh my cooler, if you want to? "

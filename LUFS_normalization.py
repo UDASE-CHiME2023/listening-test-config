@@ -63,10 +63,10 @@ clipping_threshold = 1.0 # magnitude threshold to decide if a signal clips
 sr = 16000 # sampling rate
 meter = pyln.Meter(sr) # create BS.1770 meter
 
-input_dir = 'data'
-output_dir = 'data_normalized'
+input_dir = '/data/recherche/python/UDASE-CHiME2023/listening-test-config/data/C0_unnormalized'
+output_dir = '/data/recherche/python/UDASE-CHiME2023/listening-test-config/data/C0'
 
-src_file_list = glob.glob(os.path.join(input_dir, '**/*.wav'), recursive=True)
+src_file_list = glob.glob(os.path.join(input_dir, '*.wav'), recursive=True)
 
 for file in src_file_list:
     
@@ -76,9 +76,14 @@ for file in src_file_list:
                           clipping_threshold=clipping_threshold,
                           meter=meter,sr=sr)
     
-    output_file = file.split('/')
-    output_file[0] = output_dir
-    output_file = os.path.join(*output_file)
+    # output_file = file.split('/')
+    # output_file[0] = output_dir
+    # output_file = os.path.join(*output_file)
+    
+    
+    output_file = os.path.join(output_dir, os.path.basename(file))
+    
+    
     if not os.path.isdir(os.path.dirname(output_file)):
         os.makedirs(os.path.dirname(output_file))
     

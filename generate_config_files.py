@@ -15,7 +15,7 @@ random.seed(SEED)
 import json
 
 # folder containing the data
-data_dir = 'data_normalized'
+data_dir = 'data'
 
 # list of conditions
 conditions = [os.path.basename(x) for x in glob(data_dir + '/C*', recursive = True)]
@@ -33,88 +33,81 @@ n_sessions = 4
 config_dir = 'config_files'
 if not os.path.isdir(config_dir):
     os.makedirs(config_dir)
-
-#%% Preprocess the list of stimuli
-'''
-Split the list of stimuli into subsets.
-Associate each subset to a panel of subjects.
-'''
-
-n_subsets = 4 # a listening test is splitted into n_subsets subtests/subsets
-n_subjects_per_subset = 8 # number of participants per subset
-
-df_stimuli = pd.DataFrame(columns=['subset', 'stimulus', 'subjects'])    
-
-
-# get list of stimuli with at most n_spk speakers
-# we assume that the stimuli for all conditions have the same wav file 
-# names (the reference is the unprocessed condition)
-pathpattern = os.path.join(data_dir, unprocessed_condition, '**/*.wav')
-stim_list = [x for x in glob(pathpattern, recursive=True)]
-
-# shuffle the list
-random.shuffle(stim_list)
-
-# create n_subsets subsets of (approximately) equal size
-# from the list of stimuli
-stim_subsets = np.array_split(stim_list, n_subsets)
-stim_subsets = [list(map(str, list(el))) for el in stim_subsets]
-
-# shuffle the splits
-random.shuffle(stim_subsets)
-
-# create dataframe
-for n, subset in enumerate(stim_subsets):
     
-    subset_ind = n+1
+#%% create a list that contains the information for each subject
+
+# number of subsets of the complete listening test dataset
+n_subsets = 4 
+
+# number of subjects associated to each subset
+n_subjects_per_subset = 8
+
+# total number of subjects
+n_subjects = n_subsets*n_subjects_per_subset
+
+# create a list where each element is a dataframe containing the stimuli 
+# for a given subset
+df_subsets = [] 
+
+for i in range(n_subsets):
+    df_subset = pd.read_csv('samples_subset_' + str(i+1) + '.csv')
+    df_subsets.append(df_subset)
+
+
+# create a list where each element contains a dictionary corresponding 
+# to one subject. The dictionary contains:
+# subject_id: the id of the subject (integer)
+# subset_id: the id of the subset containing the stimuli for this subject (integer)
+# df_stimuli: the dataframe containing the list of stimuli for subset subset_id
+# df_subject_exp: the dataframe containing the configuration file for the listening
+# experiment of this subject. Each row is a stimulus. It contains the following columns:
+# subset: the subset of all stimuli
+# session: the listening session index
+# file: the stimulus path (wav file)
+# first_scale: the first rating scale
+subject_data_list = []
+
+# associate each subset to a panel of subjects.
+for i in range(n_subjects):
     
-    # list of participants for the current subset (or "subtest")
-    subjects = np.arange(n*n_subjects_per_subset,(n+1)*n_subjects_per_subset) + 1
+    # subjects 1 to 8 --> subset/subset 1, subjects 9 to 816 --> subset/subset 2, etc.
+    subset_id = i//n_subjects_per_subset + 1
     
-    # add a row to the dataframe for each stimulus in the current subset
-    for stim in subset:
-        
-        stim_id = stim.split('/')[-2:]
-        stim_id = os.path.join(*stim_id)
-        
-        row = [subset_ind, stim_id, subjects]
-        df_stimuli.loc[len(df_stimuli)] = row
-
-# sort dataframe
-df_stimuli = df_stimuli.sort_values(by=['subset'])
-
-# save to csv and json
-df_stimuli.to_csv(os.path.join(config_dir, 'split_stimuli.csv'))
-# df_stimuli.to_json(os.path.join(config_dir, 'split_stimuli.json'), orient='records', indent=1)
-
-#%% Create config files for each subject
+    subject_data = {'subject_id': i+1,
+                    'subset_id': subset_id,
+                    'df_stimuli': df_subsets[subset_id-1],
+                    'df_subject_exp': pd.DataFrame(columns=['subset', 'session', 'file', 'first_scale'])}
+    
+    
+    subject_data_list.append(subject_data)
+    
+#%% Fill in df_subject_exp for each subject
 
 # for each subject
-for subject_id in range(1,33):
+for subject_ind in range(n_subjects):
         
-    #%% dataframe for the exeprimental conditions
+    # dataframe containing the configuration file for the listening
+    # experiment of the current subject
+    df_subject_exp = subject_data_list[subject_ind]['df_subject_exp']
     
-    df_subject_exp = pd.DataFrame(columns=['subset', 'session', 'file', 'first_scale'])
+    # dataframe containing the list of stimuli for the current subset
+    df_stimuli = subject_data_list[subject_ind]['df_stimuli']
     
     # loop over stimuli
     for index, row in df_stimuli.iterrows():  
-        
-        # consider only stimuli associated with current subject
-        if subject_id in row.subjects:
+                    
+        # loop over conditions
+        for cond in conditions:
+                        
+            # path to the stimulus for the current condition
+            file = os.path.join(data_dir, cond, row.wavfile)
             
-            # loop over conditions
-            for cond in conditions:
-                            
-                # path to the stimulus for the current condition
-                file = os.path.join(data_dir, cond, row.stimulus)
-                
-                # add row to dataframe
-                # we do not fill in session and first_scale for the moment
-                df_subject_exp.loc[len(df_subject_exp)] = [row.subset, 'x', file, 'x']
-    
-    # shuffle rows
-    df_subject_exp = df_subject_exp.sample(frac=1, random_state=SEED, 
-                                           ignore_index=True)        
+            # add row to dataframe
+            # we do not fill in session and first_scale for the moment
+            df_subject_exp.loc[len(df_subject_exp)] = [subject_data_list[subject_ind]['subset_id'], 'x', file, 'x']
+        
+    # # shuffle rows
+    df_subject_exp = df_subject_exp.sample(frac=1, random_state=SEED, ignore_index=True)
     
     # fill in session and first_scale columns
     n_samples_per_session = len(df_subject_exp)//n_sessions
@@ -137,17 +130,27 @@ for subject_id in range(1,33):
         df_subject_exp.at[index,'session'] = session_ind
         df_subject_exp.at[index,'first_scale'] = first_scale
         
+
     #%% dataframe for the reference conditions
     
     subset = df_subject_exp.subset.iloc[0]
     session = 0
     
+    # init dataframe
     df_subject_ref = pd.DataFrame(columns=['subset', 'session', 'file', 'first_scale'])
     
+    # list of wav files for the reference conditions
     ref_file_list = glob(os.path.join(data_dir, ref_condition, '*.wav'))
+    
+    # shuffle file list
     random.shuffle(ref_file_list)
     
-    first_scale = random.choice(['SIG', 'BAK'])
+    # assign first scale
+    if (subset == 1 or subset == 2):
+        first_scale = first_scale = 'SIG'
+    else:
+        first_scale = first_scale = 'BAK'
+    
     
     for i, file in enumerate(ref_file_list):
         if i == len(ref_file_list)//2:
@@ -184,14 +187,13 @@ for subject_id in range(1,33):
     output_dir = os.path.join(config_dir, 'csv')
     if not os.path.isdir(output_dir):
         os.makedirs(output_dir)
-    df_subject_all_scales.to_csv(os.path.join(output_dir, 'subject_' + str(subject_id) + '.csv'))
+    df_subject_all_scales.to_csv(os.path.join(output_dir, 'subject_' + str(subject_ind+1) + '.csv'))
         
     output_dir = os.path.join(config_dir, 'json')
     if not os.path.isdir(output_dir):
         os.makedirs(output_dir)
         
-    # df_subject_all_scales.to_json(os.path.join(output_dir,'subject_' + str(subject_id) + '.json'), orient='records', indent=1)
-    with open(os.path.join(output_dir,'subject_' + str(subject_id) + '.json'), 'w') as f:
+    with open(os.path.join(output_dir,'subject_' + str(subject_ind+1) + '.json'), 'w') as f:
         json.dump(df_subject_all_scales.to_dict('records'), f, indent=1)
     
     

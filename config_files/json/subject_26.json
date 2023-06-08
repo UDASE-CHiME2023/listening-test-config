@@ -2,6085 +2,3745 @@
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i08_m1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i07_f1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i08_m1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i07_f1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i08_m1.wav",
+  "file": "data/ref/i07_f1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i03_f1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i08_f1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i03_f1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i08_f1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i03_f1.wav",
+  "file": "data/ref/i08_f1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i10_m2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i02_m2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i10_m2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i02_m2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i10_m2.wav",
+  "file": "data/ref/i02_m2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i02_m1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i09_f2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i02_m1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i09_f2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i02_m1.wav",
+  "file": "data/ref/i09_f2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i09_m1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i10_m2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i09_m1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i10_m2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i09_m1.wav",
+  "file": "data/ref/i10_m2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i08_f1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i05_f2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i08_f1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i05_f2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i08_f1.wav",
+  "file": "data/ref/i05_f2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i09_m2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i05_f1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i09_m2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i05_f1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i09_m2.wav",
+  "file": "data/ref/i05_f1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i03_f2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i10_f2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i03_f2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i10_f2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i03_f2.wav",
+  "file": "data/ref/i10_f2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i11_f2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i08_f2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i11_f2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i08_f2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i11_f2.wav",
+  "file": "data/ref/i08_f2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i09_f1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i03_m2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i09_f1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i03_m2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i09_f1.wav",
+  "file": "data/ref/i03_m2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i05_m1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i11_m2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i05_m1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i11_m2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i05_m1.wav",
+  "file": "data/ref/i11_m2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i04_f2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i02_f1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i04_f2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i02_f1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i04_f2.wav",
+  "file": "data/ref/i02_f1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i06_f2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i07_m1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i06_f2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i07_m1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i06_f2.wav",
+  "file": "data/ref/i07_m1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i04_f1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i07_f2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i04_f1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i07_f2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i04_f1.wav",
+  "file": "data/ref/i07_f2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i02_f1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i12_m2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i02_f1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i12_m2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i02_f1.wav",
+  "file": "data/ref/i12_m2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i07_m1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i06_m2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i07_m1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i06_m2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i07_m1.wav",
+  "file": "data/ref/i06_m2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i10_f1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i07_m2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i10_f1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i07_m2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i10_f1.wav",
+  "file": "data/ref/i07_m2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i09_f2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i11_f1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i09_f2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i11_f1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i09_f2.wav",
+  "file": "data/ref/i11_f1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i01_m1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i04_f2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i01_m1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i04_f2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i01_m1.wav",
+  "file": "data/ref/i04_f2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i02_f2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i02_f2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i02_f2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i02_f2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i02_f2.wav",
+  "file": "data/ref/i02_f2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i11_m2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i01_m2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i11_m2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i01_m2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i11_m2.wav",
+  "file": "data/ref/i01_m2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i12_m1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i04_f1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i12_m1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i04_f1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i12_m1.wav",
+  "file": "data/ref/i04_f1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i06_m2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i06_f1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i06_m2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i06_f1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i06_m2.wav",
+  "file": "data/ref/i06_f1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i03_m1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i03_m1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i03_m1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i03_m1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i03_m1.wav",
+  "file": "data/ref/i03_m1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i05_f2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i08_m1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i05_f2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i08_m1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i05_f2.wav",
+  "file": "data/ref/i08_m1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i10_m1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i01_f2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i10_m1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i01_f2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i10_m1.wav",
+  "file": "data/ref/i01_f2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i12_m2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i12_f1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i12_m2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i12_f1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i12_m2.wav",
+  "file": "data/ref/i12_f1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i01_m2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i05_m2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i01_m2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i05_m2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i01_m2.wav",
+  "file": "data/ref/i05_m2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i12_f2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i02_m1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i12_f2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i02_m1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i12_f2.wav",
+  "file": "data/ref/i02_m1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i04_m1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i06_m1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i04_m1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i06_m1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i04_m1.wav",
+  "file": "data/ref/i06_m1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i12_f1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i09_f1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i12_f1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i09_f1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i12_f1.wav",
+  "file": "data/ref/i09_f1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i01_f1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i04_m1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i01_f1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i04_m1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i01_f1.wav",
+  "file": "data/ref/i04_m1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i06_f1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i09_m2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i06_f1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i09_m2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i06_f1.wav",
+  "file": "data/ref/i09_m2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i05_f1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i10_m1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i05_f1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i10_m1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i05_f1.wav",
+  "file": "data/ref/i10_m1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i02_m2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i08_m2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i02_m2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i08_m2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i02_m2.wav",
+  "file": "data/ref/i08_m2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i06_m1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i12_f2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i06_m1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i12_f2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i06_m1.wav",
+  "file": "data/ref/i12_f2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i08_f2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i11_f2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i08_f2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i11_f2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i08_f2.wav",
+  "file": "data/ref/i11_f2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i10_f2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i03_f1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i10_f2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i03_f1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i10_f2.wav",
+  "file": "data/ref/i03_f1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i01_f2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i01_m1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i01_f2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i01_m1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i01_f2.wav",
+  "file": "data/ref/i01_m1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i11_m1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i09_m1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i11_m1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i09_m1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i11_m1.wav",
+  "file": "data/ref/i09_m1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i11_f1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i10_f1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i11_f1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i10_f1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i11_f1.wav",
+  "file": "data/ref/i10_f1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i07_m2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i12_m1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i07_m2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i12_m1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i07_m2.wav",
+  "file": "data/ref/i12_m1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i07_f1.wav",
-  "scale": "BAK"
+  "file": "data/ref/i01_f1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i07_f1.wav",
-  "scale": "SIG"
+  "file": "data/ref/i01_f1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i07_f1.wav",
+  "file": "data/ref/i01_f1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i07_f2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i05_m1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i07_f2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i05_m1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i07_f2.wav",
+  "file": "data/ref/i05_m1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i03_m2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i03_f2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i03_m2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i03_f2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i03_m2.wav",
+  "file": "data/ref/i03_f2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i04_m2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i11_m1.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i04_m2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i11_m1.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i04_m2.wav",
+  "file": "data/ref/i11_m1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i05_m2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i06_f2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i05_m2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i06_f2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i05_m2.wav",
+  "file": "data/ref/i06_f2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i08_m2.wav",
-  "scale": "BAK"
+  "file": "data/ref/i04_m2.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i08_m2.wav",
-  "scale": "SIG"
+  "file": "data/ref/i04_m2.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 0,
-  "file": "data_normalized/ref/i08_m2.wav",
+  "file": "data/ref/i04_m2.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P04_97_output.wav",
+  "file": "data/C0/S21_P45_43.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P04_97_output.wav",
+  "file": "data/C0/S21_P45_43.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P04_97_output.wav",
+  "file": "data/C0/S21_P45_43.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S21_P46_326_output.wav",
+  "file": "data/C2/S21_P45_43.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S21_P46_326_output.wav",
+  "file": "data/C2/S21_P45_43.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S21_P46_326_output.wav",
+  "file": "data/C2/S21_P45_43.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/1/S01_P03_66_output.wav",
+  "file": "data/C3/S21_P45_25.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/1/S01_P03_66_output.wav",
+  "file": "data/C3/S21_P45_25.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/1/S01_P03_66_output.wav",
+  "file": "data/C3/S21_P45_25.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P02_232_output.wav",
+  "file": "data/C2/S01_P04_21.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P02_232_output.wav",
+  "file": "data/C2/S01_P04_21.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P02_232_output.wav",
+  "file": "data/C2/S01_P04_21.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/3/S01_P04_31_output.wav",
+  "file": "data/C4/S01_P04_60.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/3/S01_P04_31_output.wav",
+  "file": "data/C4/S01_P04_60.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/3/S01_P04_31_output.wav",
+  "file": "data/C4/S01_P04_60.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P01_170_output.wav",
+  "file": "data/C1/S21_P45_19.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P01_170_output.wav",
+  "file": "data/C1/S21_P45_19.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P01_170_output.wav",
+  "file": "data/C1/S21_P45_19.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/3/S01_P04_31_output.wav",
+  "file": "data/C2/S21_P46_27.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/3/S01_P04_31_output.wav",
+  "file": "data/C2/S21_P46_27.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/3/S01_P04_31_output.wav",
+  "file": "data/C2/S21_P46_27.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S01_P02_232_output.wav",
+  "file": "data/C1/S01_P01_18.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S01_P02_232_output.wav",
+  "file": "data/C1/S01_P01_18.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S01_P02_232_output.wav",
+  "file": "data/C1/S01_P01_18.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P01_351_output.wav",
+  "file": "data/C0/S21_P45_7.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P01_351_output.wav",
+  "file": "data/C0/S21_P45_7.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P01_351_output.wav",
+  "file": "data/C0/S21_P45_7.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/2/S01_P04_96_output.wav",
+  "file": "data/C1/S21_P45_7.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/2/S01_P04_96_output.wav",
+  "file": "data/C1/S21_P45_7.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/2/S01_P04_96_output.wav",
+  "file": "data/C1/S21_P45_7.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S21_P46_326_output.wav",
+  "file": "data/C3/S21_P47_26.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S21_P46_326_output.wav",
+  "file": "data/C3/S21_P47_26.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S21_P46_326_output.wav",
+  "file": "data/C3/S21_P47_26.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/2/S21_P46_114_output.wav",
+  "file": "data/C2/S21_P47_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/2/S21_P46_114_output.wav",
+  "file": "data/C2/S21_P47_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/2/S21_P46_114_output.wav",
+  "file": "data/C2/S21_P47_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S01_P03_154_output.wav",
+  "file": "data/C1/S01_P02_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S01_P03_154_output.wav",
+  "file": "data/C1/S01_P02_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S01_P03_154_output.wav",
+  "file": "data/C1/S01_P02_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/3/S21_P47_9_output.wav",
+  "file": "data/C1/S21_P45_31.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/3/S21_P47_9_output.wav",
+  "file": "data/C1/S21_P45_31.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/3/S21_P47_9_output.wav",
+  "file": "data/C1/S21_P45_31.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/1/S01_P02_266_output.wav",
+  "file": "data/C4/S21_P46_30.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/1/S01_P02_266_output.wav",
+  "file": "data/C4/S21_P46_30.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/1/S01_P02_266_output.wav",
+  "file": "data/C4/S21_P46_30.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/1/S01_P02_170_output.wav",
+  "file": "data/C2/S01_P04_56.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/1/S01_P02_170_output.wav",
+  "file": "data/C2/S01_P04_56.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/1/S01_P02_170_output.wav",
+  "file": "data/C2/S01_P04_56.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/2/S01_P02_178_output.wav",
+  "file": "data/C1/S01_P02_10.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/2/S01_P02_178_output.wav",
+  "file": "data/C1/S01_P02_10.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/2/S01_P02_178_output.wav",
+  "file": "data/C1/S01_P02_10.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S21_P45_337_output.wav",
+  "file": "data/C2/S21_P47_7.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S21_P45_337_output.wav",
+  "file": "data/C2/S21_P47_7.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S21_P45_337_output.wav",
+  "file": "data/C2/S21_P47_7.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S01_P03_66_output.wav",
+  "file": "data/C3/S21_P47_19.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S01_P03_66_output.wav",
+  "file": "data/C3/S21_P47_19.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S01_P03_66_output.wav",
+  "file": "data/C3/S21_P47_19.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/1/S01_P04_279_output.wav",
+  "file": "data/C0/S21_P47_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/1/S01_P04_279_output.wav",
+  "file": "data/C0/S21_P47_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/1/S01_P04_279_output.wav",
+  "file": "data/C0/S21_P47_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S21_P45_193_output.wav",
+  "file": "data/C0/S01_P01_14.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S21_P45_193_output.wav",
+  "file": "data/C0/S01_P01_14.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S21_P45_193_output.wav",
+  "file": "data/C0/S01_P01_14.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/2/S01_P04_54_output.wav",
+  "file": "data/C1/S01_P04_25.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/2/S01_P04_54_output.wav",
+  "file": "data/C1/S01_P04_25.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/2/S01_P04_54_output.wav",
+  "file": "data/C1/S01_P04_25.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/1/S21_P47_507_output.wav",
+  "file": "data/C4/S01_P04_25.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/1/S21_P47_507_output.wav",
+  "file": "data/C4/S01_P04_25.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/1/S21_P47_507_output.wav",
+  "file": "data/C4/S01_P04_25.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S01_P02_461_output.wav",
+  "file": "data/C3/S01_P04_21.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S01_P02_461_output.wav",
+  "file": "data/C3/S01_P04_21.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S01_P02_461_output.wav",
+  "file": "data/C3/S01_P04_21.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/3/S01_P04_64_output.wav",
+  "file": "data/C2/S01_P03_12.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/3/S01_P04_64_output.wav",
+  "file": "data/C2/S01_P03_12.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/3/S01_P04_64_output.wav",
+  "file": "data/C2/S01_P03_12.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P01_315_output.wav",
+  "file": "data/C3/S01_P03_5.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P01_315_output.wav",
+  "file": "data/C3/S01_P03_5.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P01_315_output.wav",
+  "file": "data/C3/S01_P03_5.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/2/S01_P04_253_output.wav",
+  "file": "data/C2/S21_P45_31.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/2/S01_P04_253_output.wav",
+  "file": "data/C2/S21_P45_31.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/2/S01_P04_253_output.wav",
+  "file": "data/C2/S21_P45_31.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P02_396_output.wav",
+  "file": "data/C1/S01_P04_56.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P02_396_output.wav",
+  "file": "data/C1/S01_P04_56.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P02_396_output.wav",
+  "file": "data/C1/S01_P04_56.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/2/S21_P47_32_output.wav",
+  "file": "data/C3/S21_P47_7.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/2/S21_P47_32_output.wav",
+  "file": "data/C3/S21_P47_7.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/2/S21_P47_32_output.wav",
+  "file": "data/C3/S21_P47_7.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/2/S21_P45_208_output.wav",
+  "file": "data/C1/S21_P46_27.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/2/S21_P45_208_output.wav",
+  "file": "data/C1/S21_P46_27.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/2/S21_P45_208_output.wav",
+  "file": "data/C1/S21_P46_27.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/2/S21_P46_114_output.wav",
+  "file": "data/C0/S21_P47_16.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/2/S21_P46_114_output.wav",
+  "file": "data/C0/S21_P47_16.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/2/S21_P46_114_output.wav",
+  "file": "data/C0/S21_P47_16.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/1/S01_P04_377_output.wav",
+  "file": "data/C4/S01_P01_8.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/1/S01_P04_377_output.wav",
+  "file": "data/C4/S01_P01_8.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/1/S01_P04_377_output.wav",
+  "file": "data/C4/S01_P01_8.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P04_377_output.wav",
+  "file": "data/C4/S01_P02_10.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P04_377_output.wav",
+  "file": "data/C4/S01_P02_10.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C0/1/S01_P04_377_output.wav",
+  "file": "data/C4/S01_P02_10.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/1/S01_P02_232_output.wav",
+  "file": "data/C0/S21_P46_18.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/1/S01_P02_232_output.wav",
+  "file": "data/C0/S21_P46_18.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/1/S01_P02_232_output.wav",
+  "file": "data/C0/S21_P46_18.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/2/S21_P45_208_output.wav",
+  "file": "data/C4/S01_P04_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/2/S21_P45_208_output.wav",
+  "file": "data/C4/S01_P04_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/2/S21_P45_208_output.wav",
+  "file": "data/C4/S01_P04_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/3/S21_P47_9_output.wav",
+  "file": "data/C4/S01_P04_58.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/3/S21_P47_9_output.wav",
+  "file": "data/C4/S01_P04_58.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/3/S21_P47_9_output.wav",
+  "file": "data/C4/S01_P04_58.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/2/S01_P01_118_output.wav",
+  "file": "data/C1/S21_P47_26.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/2/S01_P01_118_output.wav",
+  "file": "data/C1/S21_P47_26.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C1/2/S01_P01_118_output.wav",
+  "file": "data/C1/S21_P47_26.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/2/S21_P47_4_output.wav",
+  "file": "data/C1/S01_P04_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/2/S21_P47_4_output.wav",
+  "file": "data/C1/S01_P04_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C3/2/S21_P47_4_output.wav",
+  "file": "data/C1/S01_P04_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S01_P04_377_output.wav",
+  "file": "data/C0/S01_P04_56.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S01_P04_377_output.wav",
+  "file": "data/C0/S01_P04_56.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C2/1/S01_P04_377_output.wav",
+  "file": "data/C0/S01_P04_56.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S01_P02_266_output.wav",
+  "file": "data/C0/S21_P46_27.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S01_P02_266_output.wav",
+  "file": "data/C0/S21_P46_27.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 1,
-  "file": "data_normalized/C4/1/S01_P02_266_output.wav",
+  "file": "data/C0/S21_P46_27.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/2/S21_P47_35_output.wav",
+  "session": 2,
+  "file": "data/C0/S01_P04_60.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/2/S21_P47_35_output.wav",
+  "session": 2,
+  "file": "data/C0/S01_P04_60.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/2/S21_P47_35_output.wav",
+  "session": 2,
+  "file": "data/C0/S01_P04_60.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/1/S21_P45_465_output.wav",
+  "session": 2,
+  "file": "data/C2/S01_P01_8.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/1/S21_P45_465_output.wav",
+  "session": 2,
+  "file": "data/C2/S01_P01_8.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/1/S21_P45_465_output.wav",
+  "session": 2,
+  "file": "data/C2/S01_P01_8.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/2/S21_P45_117_output.wav",
+  "session": 2,
+  "file": "data/C3/S01_P04_56.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/2/S21_P45_117_output.wav",
+  "session": 2,
+  "file": "data/C3/S01_P04_56.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/2/S21_P45_117_output.wav",
+  "session": 2,
+  "file": "data/C3/S01_P04_56.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/2/S21_P47_32_output.wav",
+  "session": 2,
+  "file": "data/C1/S21_P47_14.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/2/S21_P47_32_output.wav",
+  "session": 2,
+  "file": "data/C1/S21_P47_14.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/2/S21_P47_32_output.wav",
+  "session": 2,
+  "file": "data/C1/S21_P47_14.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/2/S01_P02_178_output.wav",
+  "session": 2,
+  "file": "data/C1/S21_P45_43.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/2/S01_P02_178_output.wav",
+  "session": 2,
+  "file": "data/C1/S21_P45_43.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/2/S01_P02_178_output.wav",
+  "session": 2,
+  "file": "data/C1/S21_P45_43.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/1/S21_P45_337_output.wav",
+  "session": 2,
+  "file": "data/C0/S21_P45_31.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/1/S21_P45_337_output.wav",
+  "session": 2,
+  "file": "data/C0/S21_P45_31.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/1/S21_P45_337_output.wav",
+  "session": 2,
+  "file": "data/C0/S21_P45_31.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P45_193_output.wav",
+  "session": 2,
+  "file": "data/C1/S21_P47_16.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P45_193_output.wav",
+  "session": 2,
+  "file": "data/C1/S21_P47_16.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P45_193_output.wav",
+  "session": 2,
+  "file": "data/C1/S21_P47_16.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/3/S01_P04_64_output.wav",
+  "session": 2,
+  "file": "data/C2/S01_P02_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/3/S01_P04_64_output.wav",
+  "session": 2,
+  "file": "data/C2/S01_P02_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/3/S01_P04_64_output.wav",
+  "session": 2,
+  "file": "data/C2/S01_P02_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/2/S21_P47_35_output.wav",
+  "session": 2,
+  "file": "data/C3/S21_P46_30.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/2/S21_P47_35_output.wav",
+  "session": 2,
+  "file": "data/C3/S21_P46_30.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/2/S21_P47_35_output.wav",
+  "session": 2,
+  "file": "data/C3/S21_P46_30.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/3/S01_P04_31_output.wav",
+  "session": 2,
+  "file": "data/C0/S21_P47_7.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/3/S01_P04_31_output.wav",
+  "session": 2,
+  "file": "data/C0/S21_P47_7.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/3/S01_P04_31_output.wav",
+  "session": 2,
+  "file": "data/C0/S21_P47_7.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/1/S01_P04_97_output.wav",
+  "session": 2,
+  "file": "data/C0/S01_P04_25.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/1/S01_P04_97_output.wav",
+  "session": 2,
+  "file": "data/C0/S01_P04_25.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/1/S01_P04_97_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/3/S01_P04_64_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/3/S01_P04_64_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/3/S01_P04_64_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/1/S01_P02_170_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/1/S01_P02_170_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/1/S01_P02_170_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/1/S01_P03_479_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/1/S01_P03_479_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/1/S01_P03_479_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S01_P03_479_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S01_P03_479_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S01_P03_479_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/2/S01_P04_54_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/2/S01_P04_54_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/2/S01_P04_54_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P46_200_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P46_200_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P46_200_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/2/S01_P04_96_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/2/S01_P04_96_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/2/S01_P04_96_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S01_P01_170_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S01_P01_170_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S01_P01_170_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P45_465_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P45_465_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P45_465_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/1/S01_P02_461_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/1/S01_P02_461_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/1/S01_P02_461_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P46_361_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P46_361_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P46_361_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/1/S21_P46_200_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/1/S21_P46_200_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/1/S21_P46_200_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/3/S01_P02_25_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/3/S01_P02_25_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C0/3/S01_P02_25_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/1/S01_P04_416_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/1/S01_P04_416_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/1/S01_P04_416_output.wav",
+  "session": 2,
+  "file": "data/C0/S01_P04_25.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P45_337_output.wav",
+  "session": 2,
+  "file": "data/C4/S21_P45_17.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P45_337_output.wav",
+  "session": 2,
+  "file": "data/C4/S21_P45_17.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C1/1/S21_P45_337_output.wav",
+  "session": 2,
+  "file": "data/C4/S21_P45_17.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/3/S21_P47_9_output.wav",
+  "session": 2,
+  "file": "data/C3/S01_P04_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/3/S21_P47_9_output.wav",
+  "session": 2,
+  "file": "data/C3/S01_P04_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/3/S21_P47_9_output.wav",
+  "session": 2,
+  "file": "data/C3/S01_P04_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/3/S01_P03_26_output.wav",
+  "session": 2,
+  "file": "data/C2/S21_P46_39.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/3/S01_P03_26_output.wav",
+  "session": 2,
+  "file": "data/C2/S21_P46_39.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/3/S01_P03_26_output.wav",
+  "session": 2,
+  "file": "data/C2/S21_P46_39.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/1/S01_P02_232_output.wav",
+  "session": 2,
+  "file": "data/C0/S01_P03_5.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/1/S01_P02_232_output.wav",
+  "session": 2,
+  "file": "data/C0/S01_P03_5.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/1/S01_P02_232_output.wav",
+  "session": 2,
+  "file": "data/C0/S01_P03_5.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/3/S01_P04_4_output.wav",
+  "session": 2,
+  "file": "data/C4/S21_P47_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/3/S01_P04_4_output.wav",
+  "session": 2,
+  "file": "data/C4/S21_P47_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C4/3/S01_P04_4_output.wav",
+  "session": 2,
+  "file": "data/C4/S21_P47_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/1/S01_P02_461_output.wav",
+  "session": 2,
+  "file": "data/C3/S01_P04_58.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/1/S01_P02_461_output.wav",
+  "session": 2,
+  "file": "data/C3/S01_P04_58.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C3/1/S01_P02_461_output.wav",
+  "session": 2,
+  "file": "data/C3/S01_P04_58.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/1/S21_P47_310_output.wav",
+  "session": 2,
+  "file": "data/C2/S21_P45_17.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/1/S21_P47_310_output.wav",
+  "session": 2,
+  "file": "data/C2/S21_P45_17.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 1,
-  "file": "data_normalized/C2/1/S21_P47_310_output.wav",
+  "session": 2,
+  "file": "data/C2/S21_P45_17.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C2/3/S01_P04_4_output.wav",
+  "file": "data/C2/S01_P01_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C2/3/S01_P04_4_output.wav",
+  "file": "data/C2/S01_P01_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C2/3/S01_P04_4_output.wav",
+  "file": "data/C2/S01_P01_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C1/2/S01_P03_152_output.wav",
+  "file": "data/C4/S21_P47_16.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C1/2/S01_P03_152_output.wav",
+  "file": "data/C4/S21_P47_16.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C1/2/S01_P03_152_output.wav",
+  "file": "data/C4/S21_P47_16.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C0/2/S21_P47_32_output.wav",
+  "file": "data/C3/S21_P46_18.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C0/2/S21_P47_32_output.wav",
+  "file": "data/C3/S21_P46_18.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C0/2/S21_P47_32_output.wav",
+  "file": "data/C3/S21_P46_18.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C2/2/S01_P02_178_output.wav",
+  "file": "data/C3/S01_P04_60.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C2/2/S01_P02_178_output.wav",
+  "file": "data/C3/S01_P04_60.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C2/2/S01_P02_178_output.wav",
+  "file": "data/C3/S01_P04_60.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_301_output.wav",
+  "file": "data/C1/S01_P04_58.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_301_output.wav",
+  "file": "data/C1/S01_P04_58.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_301_output.wav",
+  "file": "data/C1/S01_P04_58.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C0/1/S21_P45_337_output.wav",
+  "file": "data/C0/S01_P02_6.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C0/1/S21_P45_337_output.wav",
+  "file": "data/C0/S01_P02_6.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C0/1/S21_P45_337_output.wav",
+  "file": "data/C0/S01_P02_6.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C3/1/S21_P47_34_output.wav",
+  "file": "data/C1/S21_P45_25.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C3/1/S21_P47_34_output.wav",
+  "file": "data/C1/S21_P45_25.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C3/1/S21_P47_34_output.wav",
+  "file": "data/C1/S21_P45_25.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C0/2/S01_P04_253_output.wav",
+  "file": "data/C4/S21_P47_14.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C0/2/S01_P04_253_output.wav",
+  "file": "data/C4/S21_P47_14.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C0/2/S01_P04_253_output.wav",
+  "file": "data/C4/S21_P47_14.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/2/S21_P45_75_output.wav",
+  "file": "data/C1/S21_P47_7.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/2/S21_P45_75_output.wav",
+  "file": "data/C1/S21_P47_7.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/2/S21_P45_75_output.wav",
+  "file": "data/C1/S21_P47_7.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_396_output.wav",
+  "file": "data/C4/S21_P45_7.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_396_output.wav",
+  "file": "data/C4/S21_P45_7.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_396_output.wav",
+  "file": "data/C4/S21_P45_7.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/2/S21_P45_193_output.wav",
+  "file": "data/C4/S21_P45_25.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/2/S21_P45_193_output.wav",
+  "file": "data/C4/S21_P45_25.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/2/S21_P45_193_output.wav",
+  "file": "data/C4/S21_P45_25.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/2/S21_P45_136_output.wav",
+  "file": "data/C2/S21_P47_26.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/2/S21_P45_136_output.wav",
+  "file": "data/C2/S21_P47_26.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/2/S21_P45_136_output.wav",
+  "file": "data/C2/S21_P47_26.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/2/S01_P01_110_output.wav",
+  "file": "data/C4/S21_P46_27.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/2/S01_P01_110_output.wav",
+  "file": "data/C4/S21_P46_27.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/2/S01_P01_110_output.wav",
+  "file": "data/C4/S21_P46_27.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/1/S21_P46_34_output.wav",
+  "file": "data/C0/S01_P02_10.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/1/S21_P46_34_output.wav",
+  "file": "data/C0/S01_P02_10.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C4/1/S21_P46_34_output.wav",
+  "file": "data/C0/S01_P02_10.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C3/2/S01_P01_118_output.wav",
+  "file": "data/C0/S21_P45_19.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C3/2/S01_P01_118_output.wav",
+  "file": "data/C0/S21_P45_19.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C3/2/S01_P01_118_output.wav",
+  "file": "data/C0/S21_P45_19.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C3/1/S01_P01_351_output.wav",
+  "file": "data/C2/S21_P45_25.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C3/1/S01_P01_351_output.wav",
+  "file": "data/C2/S21_P45_25.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C3/1/S01_P01_351_output.wav",
+  "file": "data/C2/S21_P45_25.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C2/1/S21_P45_193_output.wav",
+  "file": "data/C4/S01_P04_56.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C2/1/S21_P45_193_output.wav",
+  "file": "data/C4/S01_P04_56.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C2/1/S21_P45_193_output.wav",
+  "file": "data/C4/S01_P04_56.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C3/2/S01_P04_54_output.wav",
+  "file": "data/C1/S21_P45_17.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 2,
-  "file": "data_normalized/C3/2/S01_P04_54_output.wav",
+  "file": "data/C1/S21_P45_17.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/2/S01_P04_54_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_553_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_553_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_553_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/2/S21_P47_4_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/2/S21_P47_4_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/2/S21_P47_4_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/2/S21_P47_35_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/2/S21_P47_35_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/2/S21_P47_35_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/2/S01_P04_54_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/2/S01_P04_54_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/2/S01_P04_54_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P02_396_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P02_396_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P02_396_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/3/S01_P04_64_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/3/S01_P04_64_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/3/S01_P04_64_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P02_170_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P02_170_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P02_170_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/3/S01_P02_25_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/3/S01_P02_25_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/3/S01_P02_25_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/2/S21_P47_18_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/2/S21_P47_18_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/2/S21_P47_18_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S21_P47_507_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S21_P47_507_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S21_P47_507_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/2/S01_P02_178_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/2/S01_P02_178_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/2/S01_P02_178_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P02_266_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P02_266_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P02_266_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P01_250_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P01_250_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P01_250_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/3/S01_P04_31_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/3/S01_P04_31_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/3/S01_P04_31_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/2/S01_P04_96_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/2/S01_P04_96_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/2/S01_P04_96_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P04_416_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P04_416_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P04_416_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/2/S01_P04_223_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/2/S01_P04_223_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/2/S01_P04_223_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P01_351_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P01_351_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P01_351_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P04_97_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P04_97_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P04_97_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P02_301_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P02_301_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P02_301_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/2/S01_P03_152_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/2/S01_P03_152_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/2/S01_P03_152_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_461_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_461_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_461_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/3/S01_P04_4_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/3/S01_P04_4_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/3/S01_P04_4_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/3/S01_P04_4_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/3/S01_P04_4_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/3/S01_P04_4_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P02_553_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P02_553_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P02_553_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/2/S01_P01_118_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/2/S01_P01_118_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/2/S01_P01_118_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/3/S21_P45_20_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/3/S21_P45_20_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/3/S21_P45_20_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S21_P47_310_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S21_P47_310_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S21_P47_310_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S21_P45_193_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S21_P45_193_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S21_P45_193_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_266_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_266_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P02_266_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P02_553_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P02_553_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P02_553_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S01_P03_362_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S01_P03_362_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S01_P03_362_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S21_P46_34_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S21_P46_34_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S21_P46_34_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P01_215_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P01_215_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P01_215_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P03_362_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P03_362_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P03_362_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P04_416_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P04_416_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P04_416_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P04_279_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P04_279_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P04_279_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P01_209_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P01_209_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P01_209_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P01_285_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P01_285_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/1/S01_P01_285_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S21_P47_34_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S21_P47_34_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S21_P47_34_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/2/S21_P45_75_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/2/S21_P45_75_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/2/S21_P45_75_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P01_250_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P01_250_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P01_250_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P03_154_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P03_154_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P03_154_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S01_P02_553_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S01_P02_553_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S01_P02_553_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P01_209_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P01_209_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/1/S01_P01_209_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/3/S21_P45_20_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/3/S21_P45_20_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C3/3/S21_P45_20_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/2/S21_P47_90_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/2/S21_P47_90_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C1/2/S21_P47_90_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P04_279_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P04_279_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/1/S01_P04_279_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/2/S01_P04_96_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/2/S01_P04_96_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/2/S01_P04_96_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/2/S21_P47_18_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/2/S21_P47_18_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C0/2/S21_P47_18_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S01_P02_301_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S01_P02_301_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S01_P02_301_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S21_P47_34_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S21_P47_34_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C2/1/S21_P47_34_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P01_315_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P01_315_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P01_315_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P01_351_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P01_351_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 2,
-  "file": "data_normalized/C4/1/S01_P01_351_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/1/S01_P01_215_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/1/S01_P01_215_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/1/S01_P01_215_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S21_P45_208_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S21_P45_208_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S21_P45_208_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S01_P01_315_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S01_P01_315_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S01_P01_315_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P47_507_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P47_507_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P47_507_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/1/S21_P46_34_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/1/S21_P46_34_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/1/S21_P46_34_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/3/S21_P45_20_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/3/S21_P45_20_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/3/S21_P45_20_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/2/S21_P45_208_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/2/S21_P45_208_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/2/S21_P45_208_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S21_P46_200_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S21_P46_200_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S21_P46_200_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S01_P04_223_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S01_P04_223_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S01_P04_223_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S01_P01_110_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S01_P01_110_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S01_P01_110_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S01_P03_154_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S01_P03_154_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S01_P03_154_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P03_66_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P03_66_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P03_66_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P04_97_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P04_97_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P04_97_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S21_P45_75_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S21_P45_75_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S21_P45_75_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P03_154_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P03_154_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P03_154_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P45_193_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P45_193_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P45_193_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P46_34_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P46_34_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P46_34_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S01_P01_285_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S01_P01_285_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S01_P01_285_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/2/S21_P45_208_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/2/S21_P45_208_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/2/S21_P45_208_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S21_P46_326_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S21_P46_326_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S21_P46_326_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P46_361_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P46_361_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P46_361_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S01_P02_266_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S01_P02_266_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S01_P02_266_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/2/S21_P47_90_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/2/S21_P47_90_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/2/S21_P47_90_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S01_P02_461_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S01_P02_461_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S01_P02_461_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S21_P45_117_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S21_P45_117_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S21_P45_117_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S21_P45_136_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S21_P45_136_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S21_P45_136_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S21_P47_90_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S21_P47_90_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S21_P47_90_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S21_P45_75_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S21_P45_75_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S21_P45_75_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S21_P47_4_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S21_P47_4_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S21_P47_4_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S21_P45_337_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S21_P45_337_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S21_P45_337_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S01_P01_209_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S01_P01_209_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S01_P01_209_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/2/S21_P47_32_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/2/S21_P47_32_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/2/S21_P47_32_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/3/S01_P02_25_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/3/S01_P02_25_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/3/S01_P02_25_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S01_P03_479_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S01_P03_479_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S01_P03_479_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S01_P04_54_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S01_P04_54_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S01_P04_54_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S21_P47_310_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S21_P47_310_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S21_P47_310_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S21_P47_32_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S21_P47_32_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S21_P47_32_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S01_P04_253_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S01_P04_253_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S01_P04_253_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S21_P46_361_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S21_P46_361_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S21_P46_361_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S21_P45_465_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S21_P45_465_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/1/S21_P45_465_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/3/S01_P03_26_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/3/S01_P03_26_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/3/S01_P03_26_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S21_P47_90_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S21_P47_90_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S21_P47_90_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P03_479_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P03_479_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P03_479_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/3/S21_P45_20_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/3/S21_P45_20_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/3/S21_P45_20_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/2/S01_P04_253_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/2/S01_P04_253_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/2/S01_P04_253_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P47_310_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P47_310_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P47_310_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/2/S21_P47_4_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/2/S21_P47_4_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/2/S21_P47_4_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/2/S01_P02_178_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/2/S01_P02_178_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/2/S01_P02_178_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P03_362_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P03_362_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P03_362_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P01_170_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P01_170_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P01_170_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P01_170_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P01_170_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P01_170_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S01_P01_110_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S01_P01_110_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/2/S01_P01_110_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/2/S01_P03_152_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/2/S01_P03_152_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C2/2/S01_P03_152_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S21_P45_193_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S21_P45_193_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S21_P45_193_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S01_P04_96_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S01_P04_96_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S01_P04_96_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P02_396_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P02_396_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P02_396_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/3/S01_P02_25_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/3/S01_P02_25_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/3/S01_P02_25_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S21_P45_193_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S21_P45_193_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/2/S21_P45_193_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P02_301_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P02_301_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P02_301_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S01_P03_66_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S01_P03_66_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S01_P03_66_output.wav",
+  "session": 2,
+  "file": "data/C1/S21_P45_17.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P46_200_output.wav",
-  "scale": "SIG"
+  "session": 2,
+  "file": "data/C3/S21_P45_17.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P46_200_output.wav",
-  "scale": "BAK"
+  "session": 2,
+  "file": "data/C3/S21_P45_17.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C0/1/S21_P46_200_output.wav",
+  "session": 2,
+  "file": "data/C3/S21_P45_17.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P01_285_output.wav",
-  "scale": "SIG"
+  "session": 2,
+  "file": "data/C4/S01_P01_18.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P01_285_output.wav",
-  "scale": "BAK"
+  "session": 2,
+  "file": "data/C4/S01_P01_18.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C4/1/S01_P01_285_output.wav",
+  "session": 2,
+  "file": "data/C4/S01_P01_18.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S21_P45_117_output.wav",
-  "scale": "SIG"
+  "session": 2,
+  "file": "data/C4/S01_P01_14.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S21_P45_117_output.wav",
-  "scale": "BAK"
+  "session": 2,
+  "file": "data/C4/S01_P01_14.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C1/2/S21_P45_117_output.wav",
+  "session": 2,
+  "file": "data/C4/S01_P01_14.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P01_315_output.wav",
-  "scale": "SIG"
+  "session": 2,
+  "file": "data/C3/S01_P01_14.wav",
+  "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P01_315_output.wav",
-  "scale": "BAK"
+  "session": 2,
+  "file": "data/C3/S01_P01_14.wav",
+  "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 3,
-  "file": "data_normalized/C3/1/S01_P01_315_output.wav",
+  "session": 2,
+  "file": "data/C3/S01_P01_14.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C3/2/S01_P03_152_output.wav",
+  "file": "data/C3/S01_P02_6.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C3/2/S01_P03_152_output.wav",
+  "file": "data/C3/S01_P02_6.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C3/2/S01_P03_152_output.wav",
+  "file": "data/C3/S01_P02_6.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C1/2/S21_P45_136_output.wav",
+  "file": "data/C3/S21_P46_39.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C1/2/S21_P45_136_output.wav",
+  "file": "data/C3/S21_P46_39.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C1/2/S21_P45_136_output.wav",
+  "file": "data/C3/S21_P46_39.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C1/1/S01_P04_377_output.wav",
+  "file": "data/C3/S01_P01_8.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C1/1/S01_P04_377_output.wav",
+  "file": "data/C3/S01_P01_8.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C1/1/S01_P04_377_output.wav",
+  "file": "data/C3/S01_P01_8.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C3/1/S01_P03_362_output.wav",
+  "file": "data/C3/S21_P45_43.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C3/1/S01_P03_362_output.wav",
+  "file": "data/C3/S21_P45_43.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C3/1/S01_P03_362_output.wav",
+  "file": "data/C3/S21_P45_43.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C0/2/S01_P03_152_output.wav",
+  "file": "data/C0/S01_P01_8.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C0/2/S01_P03_152_output.wav",
+  "file": "data/C0/S01_P01_8.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C0/2/S01_P03_152_output.wav",
+  "file": "data/C0/S01_P01_8.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C4/1/S21_P47_507_output.wav",
+  "file": "data/C0/S01_P04_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C4/1/S21_P47_507_output.wav",
+  "file": "data/C0/S01_P04_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C4/1/S21_P47_507_output.wav",
+  "file": "data/C0/S01_P04_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C0/2/S01_P04_223_output.wav",
+  "file": "data/C3/S21_P47_1.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C0/2/S01_P04_223_output.wav",
+  "file": "data/C3/S21_P47_1.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C0/2/S01_P04_223_output.wav",
+  "file": "data/C3/S21_P47_1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C1/1/S21_P46_326_output.wav",
+  "file": "data/C2/S01_P02_10.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C1/1/S21_P46_326_output.wav",
+  "file": "data/C2/S01_P02_10.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 3,
-  "file": "data_normalized/C1/1/S21_P46_326_output.wav",
+  "file": "data/C2/S01_P02_10.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/2/S21_P45_193_output.wav",
+  "session": 3,
+  "file": "data/C1/S21_P47_1.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/2/S21_P45_193_output.wav",
+  "session": 3,
+  "file": "data/C1/S21_P47_1.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/2/S21_P45_193_output.wav",
+  "session": 3,
+  "file": "data/C1/S21_P47_1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S01_P01_250_output.wav",
+  "session": 3,
+  "file": "data/C3/S01_P01_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S01_P01_250_output.wav",
+  "session": 3,
+  "file": "data/C3/S01_P01_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S01_P01_250_output.wav",
+  "session": 3,
+  "file": "data/C3/S01_P01_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/1/S01_P01_250_output.wav",
+  "session": 3,
+  "file": "data/C4/S21_P46_39.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/1/S01_P01_250_output.wav",
+  "session": 3,
+  "file": "data/C4/S21_P46_39.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/1/S01_P01_250_output.wav",
+  "session": 3,
+  "file": "data/C4/S21_P46_39.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/2/S21_P45_193_output.wav",
+  "session": 3,
+  "file": "data/C3/S21_P47_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/2/S21_P45_193_output.wav",
+  "session": 3,
+  "file": "data/C3/S21_P47_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/2/S21_P45_193_output.wav",
+  "session": 3,
+  "file": "data/C3/S21_P47_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/3/S21_P47_9_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P04_21.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/3/S21_P47_9_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P04_21.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/3/S21_P47_9_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P04_21.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/2/S01_P04_253_output.wav",
+  "session": 3,
+  "file": "data/C3/S01_P01_18.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/2/S01_P04_253_output.wav",
+  "session": 3,
+  "file": "data/C3/S01_P01_18.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/2/S01_P04_253_output.wav",
+  "session": 3,
+  "file": "data/C3/S01_P01_18.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S21_P47_507_output.wav",
+  "session": 3,
+  "file": "data/C0/S21_P47_1.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S21_P47_507_output.wav",
+  "session": 3,
+  "file": "data/C0/S21_P47_1.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S21_P47_507_output.wav",
+  "session": 3,
+  "file": "data/C0/S21_P47_1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/3/S01_P04_31_output.wav",
+  "session": 3,
+  "file": "data/C4/S21_P46_18.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/3/S01_P04_31_output.wav",
+  "session": 3,
+  "file": "data/C4/S21_P46_18.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/3/S01_P04_31_output.wav",
+  "session": 3,
+  "file": "data/C4/S21_P46_18.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/1/S01_P03_154_output.wav",
+  "session": 3,
+  "file": "data/C4/S21_P47_19.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/1/S01_P03_154_output.wav",
+  "session": 3,
+  "file": "data/C4/S21_P47_19.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/1/S01_P03_154_output.wav",
+  "session": 3,
+  "file": "data/C4/S21_P47_19.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/2/S21_P46_114_output.wav",
+  "session": 3,
+  "file": "data/C2/S01_P02_6.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/2/S21_P46_114_output.wav",
+  "session": 3,
+  "file": "data/C2/S01_P02_6.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/2/S21_P46_114_output.wav",
+  "session": 3,
+  "file": "data/C2/S01_P02_6.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S21_P46_200_output.wav",
+  "session": 3,
+  "file": "data/C3/S21_P46_27.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S21_P46_200_output.wav",
+  "session": 3,
+  "file": "data/C3/S21_P46_27.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S21_P46_200_output.wav",
+  "session": 3,
+  "file": "data/C3/S21_P46_27.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/3/S01_P03_26_output.wav",
+  "session": 3,
+  "file": "data/C4/S01_P02_6.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/3/S01_P03_26_output.wav",
+  "session": 3,
+  "file": "data/C4/S01_P02_6.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/3/S01_P03_26_output.wav",
+  "session": 3,
+  "file": "data/C4/S01_P02_6.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S01_P04_97_output.wav",
+  "session": 3,
+  "file": "data/C0/S21_P47_19.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S01_P04_97_output.wav",
+  "session": 3,
+  "file": "data/C0/S21_P47_19.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S01_P04_97_output.wav",
+  "session": 3,
+  "file": "data/C0/S21_P47_19.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/2/S01_P01_118_output.wav",
+  "session": 3,
+  "file": "data/C1/S21_P47_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/2/S01_P01_118_output.wav",
+  "session": 3,
+  "file": "data/C1/S21_P47_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/2/S01_P01_118_output.wav",
+  "session": 3,
+  "file": "data/C1/S21_P47_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/1/S01_P03_362_output.wav",
+  "session": 3,
+  "file": "data/C2/S21_P47_16.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/1/S01_P03_362_output.wav",
+  "session": 3,
+  "file": "data/C2/S21_P47_16.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/1/S01_P03_362_output.wav",
+  "session": 3,
+  "file": "data/C2/S21_P47_16.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/3/S21_P45_20_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P01_14.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/3/S21_P45_20_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P01_14.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/3/S21_P45_20_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P01_14.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/1/S21_P46_326_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P02_6.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/1/S21_P46_326_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P02_6.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/1/S21_P46_326_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P02_6.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/1/S01_P01_315_output.wav",
+  "session": 3,
+  "file": "data/C2/S21_P45_19.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/1/S01_P01_315_output.wav",
+  "session": 3,
+  "file": "data/C2/S21_P45_19.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/1/S01_P01_315_output.wav",
+  "session": 3,
+  "file": "data/C2/S21_P45_19.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/1/S01_P01_209_output.wav",
+  "session": 3,
+  "file": "data/C0/S01_P03_12.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/1/S01_P01_209_output.wav",
+  "session": 3,
+  "file": "data/C0/S01_P03_12.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/1/S01_P01_209_output.wav",
+  "session": 3,
+  "file": "data/C0/S01_P03_12.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/2/S21_P45_75_output.wav",
+  "session": 3,
+  "file": "data/C2/S01_P04_25.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/2/S21_P45_75_output.wav",
+  "session": 3,
+  "file": "data/C2/S01_P04_25.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/2/S21_P45_75_output.wav",
+  "session": 3,
+  "file": "data/C2/S01_P04_25.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/1/S01_P02_553_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P04_60.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/1/S01_P02_553_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P04_60.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C0/1/S01_P02_553_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P04_60.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/2/S21_P45_117_output.wav",
+  "session": 3,
+  "file": "data/C1/S21_P46_39.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/2/S21_P45_117_output.wav",
+  "session": 3,
+  "file": "data/C1/S21_P46_39.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/2/S21_P45_117_output.wav",
+  "session": 3,
+  "file": "data/C1/S21_P46_39.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/1/S01_P02_301_output.wav",
+  "session": 3,
+  "file": "data/C0/S01_P01_18.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/1/S01_P02_301_output.wav",
+  "session": 3,
+  "file": "data/C0/S01_P01_18.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/1/S01_P02_301_output.wav",
+  "session": 3,
+  "file": "data/C0/S01_P01_18.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S01_P01_351_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P01_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S01_P01_351_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P01_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S01_P01_351_output.wav",
+  "session": 3,
+  "file": "data/C1/S01_P01_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S01_P02_396_output.wav",
+  "session": 3,
+  "file": "data/C0/S21_P47_26.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S01_P02_396_output.wav",
+  "session": 3,
+  "file": "data/C0/S21_P47_26.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C2/1/S01_P02_396_output.wav",
+  "session": 3,
+  "file": "data/C0/S21_P47_26.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/3/S01_P03_26_output.wav",
+  "session": 3,
+  "file": "data/C3/S21_P45_31.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/3/S01_P03_26_output.wav",
+  "session": 3,
+  "file": "data/C3/S21_P45_31.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/3/S01_P03_26_output.wav",
+  "session": 3,
+  "file": "data/C3/S21_P45_31.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/2/S21_P45_117_output.wav",
+  "session": 3,
+  "file": "data/C2/S01_P04_60.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/2/S21_P45_117_output.wav",
+  "session": 3,
+  "file": "data/C2/S01_P04_60.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/2/S21_P45_117_output.wav",
+  "session": 3,
+  "file": "data/C2/S01_P04_60.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/1/S21_P46_34_output.wav",
+  "session": 3,
+  "file": "data/C0/S21_P45_17.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/1/S21_P46_34_output.wav",
+  "session": 3,
+  "file": "data/C0/S21_P45_17.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/1/S21_P46_34_output.wav",
+  "session": 3,
+  "file": "data/C0/S21_P45_17.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/1/S21_P45_465_output.wav",
+  "session": 3,
+  "file": "data/C4/S01_P01_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/1/S21_P45_465_output.wav",
+  "session": 3,
+  "file": "data/C4/S01_P01_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/1/S21_P45_465_output.wav",
+  "session": 3,
+  "file": "data/C4/S01_P01_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/3/S21_P47_9_output.wav",
+  "session": 3,
+  "file": "data/C3/S21_P47_16.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/3/S21_P47_9_output.wav",
+  "session": 3,
+  "file": "data/C3/S21_P47_16.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C1/3/S21_P47_9_output.wav",
+  "session": 3,
+  "file": "data/C3/S21_P47_16.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/1/S01_P04_279_output.wav",
+  "session": 3,
+  "file": "data/C2/S01_P04_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/1/S01_P04_279_output.wav",
+  "session": 3,
+  "file": "data/C2/S01_P04_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C3/1/S01_P04_279_output.wav",
+  "session": 3,
+  "file": "data/C2/S01_P04_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/2/S21_P47_18_output.wav",
+  "session": 3,
+  "file": "data/C1/S21_P46_30.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/2/S21_P47_18_output.wav",
+  "session": 3,
+  "file": "data/C1/S21_P46_30.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
-  "session": 4,
-  "file": "data_normalized/C4/2/S21_P47_18_output.wav",
+  "session": 3,
+  "file": "data/C1/S21_P46_30.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S01_P04_416_output.wav",
+  "file": "data/C4/S21_P45_19.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S01_P04_416_output.wav",
+  "file": "data/C4/S21_P45_19.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S01_P04_416_output.wav",
+  "file": "data/C4/S21_P45_19.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S01_P03_66_output.wav",
+  "file": "data/C3/S01_P03_12.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S01_P03_66_output.wav",
+  "file": "data/C3/S01_P03_12.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S01_P03_66_output.wav",
+  "file": "data/C3/S01_P03_12.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S01_P03_479_output.wav",
+  "file": "data/C0/S01_P04_21.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S01_P03_479_output.wav",
+  "file": "data/C0/S01_P04_21.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S01_P03_479_output.wav",
+  "file": "data/C0/S01_P04_21.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S01_P01_285_output.wav",
+  "file": "data/C3/S01_P02_10.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S01_P01_285_output.wav",
+  "file": "data/C3/S01_P02_10.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S01_P01_285_output.wav",
+  "file": "data/C3/S01_P02_10.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S21_P45_465_output.wav",
+  "file": "data/C3/S21_P47_14.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S21_P45_465_output.wav",
+  "file": "data/C3/S21_P47_14.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S21_P45_465_output.wav",
+  "file": "data/C3/S21_P47_14.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/3/S01_P04_4_output.wav",
+  "file": "data/C1/S21_P47_19.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/3/S01_P04_4_output.wav",
+  "file": "data/C1/S21_P47_19.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/3/S01_P04_4_output.wav",
+  "file": "data/C1/S21_P47_19.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S01_P01_215_output.wav",
+  "file": "data/C0/S01_P01_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S01_P01_215_output.wav",
+  "file": "data/C0/S01_P01_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S01_P01_215_output.wav",
+  "file": "data/C0/S01_P01_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S01_P01_285_output.wav",
+  "file": "data/C4/S01_P03_5.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S01_P01_285_output.wav",
+  "file": "data/C4/S01_P03_5.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S01_P01_285_output.wav",
+  "file": "data/C4/S01_P03_5.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/2/S21_P47_18_output.wav",
+  "file": "data/C3/S01_P02_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/2/S21_P47_18_output.wav",
+  "file": "data/C3/S01_P02_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/2/S21_P47_18_output.wav",
+  "file": "data/C3/S01_P02_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P47_18_output.wav",
+  "file": "data/C4/S21_P45_43.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P47_18_output.wav",
+  "file": "data/C4/S21_P45_43.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P47_18_output.wav",
+  "file": "data/C4/S21_P45_43.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S01_P04_279_output.wav",
+  "file": "data/C1/S01_P03_5.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S01_P04_279_output.wav",
+  "file": "data/C1/S01_P03_5.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S01_P04_279_output.wav",
+  "file": "data/C1/S01_P03_5.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/1/S01_P01_209_output.wav",
+  "file": "data/C4/S21_P47_26.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/1/S01_P01_209_output.wav",
+  "file": "data/C4/S21_P47_26.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/1/S01_P01_209_output.wav",
+  "file": "data/C4/S21_P47_26.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/1/S01_P01_250_output.wav",
+  "file": "data/C2/S21_P47_19.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/1/S01_P01_250_output.wav",
+  "file": "data/C2/S21_P47_19.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/1/S01_P01_250_output.wav",
+  "file": "data/C2/S21_P47_19.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/3/S01_P02_25_output.wav",
+  "file": "data/C4/S21_P45_31.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/3/S01_P02_25_output.wav",
+  "file": "data/C4/S21_P45_31.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/3/S01_P02_25_output.wav",
+  "file": "data/C4/S21_P45_31.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/1/S21_P47_34_output.wav",
+  "file": "data/C2/S01_P03_5.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/1/S21_P47_34_output.wav",
+  "file": "data/C2/S01_P03_5.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/1/S21_P47_34_output.wav",
+  "file": "data/C2/S01_P03_5.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P47_90_output.wav",
+  "file": "data/C4/S01_P02_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P47_90_output.wav",
+  "file": "data/C4/S01_P02_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P47_90_output.wav",
+  "file": "data/C4/S01_P02_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S21_P47_310_output.wav",
+  "file": "data/C4/S21_P47_7.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S21_P47_310_output.wav",
+  "file": "data/C4/S21_P47_7.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S21_P47_310_output.wav",
+  "file": "data/C4/S21_P47_7.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P45_136_output.wav",
+  "file": "data/C2/S21_P46_18.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P45_136_output.wav",
+  "file": "data/C2/S21_P46_18.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P45_136_output.wav",
+  "file": "data/C2/S21_P46_18.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S01_P01_215_output.wav",
+  "file": "data/C4/S21_P47_1.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S01_P01_215_output.wav",
+  "file": "data/C4/S21_P47_1.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S01_P01_215_output.wav",
+  "file": "data/C4/S21_P47_1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/2/S21_P46_114_output.wav",
+  "file": "data/C0/S21_P46_30.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/2/S21_P46_114_output.wav",
+  "file": "data/C0/S21_P46_30.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/2/S21_P46_114_output.wav",
+  "file": "data/C0/S21_P46_30.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/1/S21_P47_34_output.wav",
+  "file": "data/C0/S21_P46_39.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/1/S21_P47_34_output.wav",
+  "file": "data/C0/S21_P46_39.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/1/S21_P47_34_output.wav",
+  "file": "data/C0/S21_P46_39.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P47_35_output.wav",
+  "file": "data/C2/S01_P04_58.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P47_35_output.wav",
+  "file": "data/C2/S01_P04_58.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P47_35_output.wav",
+  "file": "data/C2/S01_P04_58.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/1/S01_P04_416_output.wav",
+  "file": "data/C2/S21_P47_1.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/1/S01_P04_416_output.wav",
+  "file": "data/C2/S21_P47_1.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/1/S01_P04_416_output.wav",
+  "file": "data/C2/S21_P47_1.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/2/S01_P01_118_output.wav",
+  "file": "data/C0/S01_P02_3.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/2/S01_P01_118_output.wav",
+  "file": "data/C0/S01_P02_3.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/2/S01_P01_118_output.wav",
+  "file": "data/C0/S01_P02_3.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/3/S01_P04_64_output.wav",
+  "file": "data/C1/S21_P46_18.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/3/S01_P04_64_output.wav",
+  "file": "data/C1/S21_P46_18.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/3/S01_P04_64_output.wav",
+  "file": "data/C1/S21_P46_18.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/2/S01_P04_223_output.wav",
+  "file": "data/C0/S21_P47_14.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/2/S01_P04_223_output.wav",
+  "file": "data/C0/S21_P47_14.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/2/S01_P04_223_output.wav",
+  "file": "data/C0/S21_P47_14.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S01_P02_170_output.wav",
+  "file": "data/C2/S21_P47_14.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S01_P02_170_output.wav",
+  "file": "data/C2/S21_P47_14.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S01_P02_170_output.wav",
+  "file": "data/C2/S21_P47_14.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/3/S01_P03_26_output.wav",
+  "file": "data/C4/S01_P03_12.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/3/S01_P03_26_output.wav",
+  "file": "data/C4/S01_P03_12.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/3/S01_P03_26_output.wav",
+  "file": "data/C4/S01_P03_12.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S21_P46_361_output.wav",
+  "file": "data/C3/S01_P04_25.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S21_P46_361_output.wav",
+  "file": "data/C3/S01_P04_25.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/1/S21_P46_361_output.wav",
+  "file": "data/C3/S01_P04_25.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/2/S01_P01_110_output.wav",
+  "file": "data/C0/S21_P45_25.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/2/S01_P01_110_output.wav",
+  "file": "data/C0/S21_P45_25.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C3/2/S01_P01_110_output.wav",
+  "file": "data/C0/S21_P45_25.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/2/S21_P47_35_output.wav",
+  "file": "data/C3/S21_P45_7.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/2/S21_P47_35_output.wav",
+  "file": "data/C3/S21_P45_7.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/2/S21_P47_35_output.wav",
+  "file": "data/C3/S21_P45_7.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S01_P01_110_output.wav",
+  "file": "data/C0/S01_P04_58.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S01_P01_110_output.wav",
+  "file": "data/C0/S01_P04_58.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S01_P01_110_output.wav",
+  "file": "data/C0/S01_P04_58.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S01_P01_215_output.wav",
+  "file": "data/C2/S21_P45_7.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S01_P01_215_output.wav",
+  "file": "data/C2/S21_P45_7.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S01_P01_215_output.wav",
+  "file": "data/C2/S21_P45_7.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S01_P02_170_output.wav",
+  "file": "data/C1/S01_P03_12.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S01_P02_170_output.wav",
+  "file": "data/C1/S01_P03_12.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S01_P02_170_output.wav",
+  "file": "data/C1/S01_P03_12.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/1/S01_P02_232_output.wav",
+  "file": "data/C1/S01_P01_8.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/1/S01_P02_232_output.wav",
+  "file": "data/C1/S01_P01_8.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/1/S01_P02_232_output.wav",
+  "file": "data/C1/S01_P01_8.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S01_P04_377_output.wav",
+  "file": "data/C4/S01_P04_21.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S01_P04_377_output.wav",
+  "file": "data/C4/S01_P04_21.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C4/1/S01_P04_377_output.wav",
+  "file": "data/C4/S01_P04_21.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/2/S21_P45_136_output.wav",
+  "file": "data/C3/S21_P45_19.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/2/S21_P45_136_output.wav",
+  "file": "data/C3/S21_P45_19.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C0/2/S21_P45_136_output.wav",
+  "file": "data/C3/S21_P45_19.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/2/S21_P47_4_output.wav",
+  "file": "data/C2/S01_P01_18.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/2/S21_P47_4_output.wav",
+  "file": "data/C2/S01_P01_18.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C1/2/S21_P47_4_output.wav",
+  "file": "data/C2/S01_P01_18.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S21_P46_361_output.wav",
+  "file": "data/C2/S21_P46_30.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S21_P46_361_output.wav",
+  "file": "data/C2/S21_P46_30.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/1/S21_P46_361_output.wav",
+  "file": "data/C2/S21_P46_30.wav",
   "scale": "OVRL"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P46_114_output.wav",
+  "file": "data/C2/S01_P01_14.wav",
   "scale": "SIG"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P46_114_output.wav",
+  "file": "data/C2/S01_P01_14.wav",
   "scale": "BAK"
  },
  {
   "subset": 4,
   "session": 4,
-  "file": "data_normalized/C2/2/S21_P46_114_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 5,
-  "file": "data_normalized/C2/1/S01_P01_170_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 5,
-  "file": "data_normalized/C2/1/S01_P01_170_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 5,
-  "file": "data_normalized/C2/1/S01_P01_170_output.wav",
-  "scale": "OVRL"
- },
- {
-  "subset": 4,
-  "session": 5,
-  "file": "data_normalized/C2/2/S01_P04_223_output.wav",
-  "scale": "SIG"
- },
- {
-  "subset": 4,
-  "session": 5,
-  "file": "data_normalized/C2/2/S01_P04_223_output.wav",
-  "scale": "BAK"
- },
- {
-  "subset": 4,
-  "session": 5,
-  "file": "data_normalized/C2/2/S01_P04_223_output.wav",
+  "file": "data/C2/S01_P01_14.wav",
   "scale": "OVRL"
  }
 ]

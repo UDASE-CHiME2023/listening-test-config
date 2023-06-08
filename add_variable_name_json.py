@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+Add a variable with the id of the subject at the beginning of the json.
+This was asked by Matthieu and is used to read the file in javascript.
 """
 
 import glob
