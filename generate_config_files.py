@@ -70,7 +70,7 @@ subject_data_list = []
 # associate each subset to a panel of subjects.
 for i in range(n_subjects):
     
-    # subjects 1 to 8 --> subset/subset 1, subjects 9 to 816 --> subset/subset 2, etc.
+    # subjects 1 to 8 --> subset 1, subjects 9 to 16 --> subset 2, etc.
     subset_id = i//n_subjects_per_subset + 1
     
     subject_data = {'subject_id': i+1,

@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jun  6 10:27:07 2023
-
-Les locuteurs sont accessibles dans "words", le nombre de personnes qui parlent 
+From Léonie: Les locuteurs sont accessibles dans "words", le nombre de personnes qui parlent 
 en même temps dans "num_spk" et le lieu dans "location". J'ai aussi ajouté les 
 temps où x personnes parlent simultanément (0_spk_time, 1_spk_time, etc.) et 
 le sexe des locuteurs (F, M ou FM).
@@ -20,6 +18,7 @@ import random
 random.seed(SEED)
 import matplotlib.pyplot as plt
 from collections import Counter
+    
 
 #%% parameters
 
@@ -30,7 +29,7 @@ samples_to_ignore = ['S01_P04_63.wav', 'S01_P02_12.wav']
 # number of subsets
 num_subsets = 4
 
-# target number of samples in each subset
+# target number of samples (elements) in each subset
 target_numel_per_subset = 32 # 58, 41, 32
 
 VERBOSE = False
