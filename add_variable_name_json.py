@@ -22,7 +22,8 @@ for file in file_list:
     with open(file, 'r') as f:
         lines = f.readlines()
         
-    lines[0] = basename[:-5] + ' = ' + lines[0]
+    # lines[0] = basename[:-5] + ' = ' + lines[0]
+    lines[0] = 'all_trials' + ' = ' + lines[0]
     
     new_file = os.path.join(output_path, basename)
     with open(new_file, 'w') as f:

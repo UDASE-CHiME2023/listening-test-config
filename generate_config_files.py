@@ -102,6 +102,8 @@ for subject_ind in range(n_subjects):
             # path to the stimulus for the current condition
             file = os.path.join(data_dir, cond, row.wavfile)
             
+            assert row.wavfile.split('_')[-1] == 'output.wav'
+            
             # add row to dataframe
             # we do not fill in session and first_scale for the moment
             df_subject_exp.loc[len(df_subject_exp)] = [subject_data_list[subject_ind]['subset_id'], 'x', file, 'x']
@@ -196,4 +198,30 @@ for subject_ind in range(n_subjects):
     with open(os.path.join(output_dir,'subject_' + str(subject_ind+1) + '.json'), 'w') as f:
         json.dump(df_subject_all_scales.to_dict('records'), f, indent=1)
     
+
+#%%
+
+"""Add a variable with the id of the subject at the beginning of the json.
+This was asked by Matthieu and is used to read the file in javascript."""
+
+input_path = os.path.join(config_dir,'json')
+output_path = os.path.join(config_dir,'modified_json')
+
+if not os.path.isdir(output_path):
+    os.mkdir(output_path)
+
+file_list = glob(os.path.join(input_path, '*.json'))
+
+for file in file_list:
     
+    basename = os.path.basename(file)
+    
+    with open(file, 'r') as f:
+        lines = f.readlines()
+        
+    # lines[0] = basename[:-5] + ' = ' + lines[0]
+    lines[0] = 'all_trials' + ' = ' + lines[0]
+    
+    new_file = os.path.join(output_path, basename)
+    with open(new_file, 'w') as f:
+        f.writelines(lines)

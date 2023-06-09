@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Script to normalize audio files to -30 LUFS.
+Script to normalize the audio files in input_dir to -30 LUFS and to rename
+them by adding 'output' in the file name.
 """
 
 import numpy as np
@@ -76,12 +77,9 @@ for file in src_file_list:
                           clipping_threshold=clipping_threshold,
                           meter=meter,sr=sr)
     
-    # output_file = file.split('/')
-    # output_file[0] = output_dir
-    # output_file = os.path.join(*output_file)
     
-    
-    output_file = os.path.join(output_dir, os.path.basename(file))
+    output_file = os.path.join(output_dir, 
+                               os.path.basename(file)[:-4] + '_output.wav')
     
     
     if not os.path.isdir(os.path.dirname(output_file)):

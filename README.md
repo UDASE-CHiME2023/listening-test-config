@@ -2,7 +2,7 @@
 
 ## Preliminaries 
 
-Download and unzip [this file](https://drive.google.com/file/d/1v3bBiDm8FR7WB7B9ejX579txXfz2u5wv/view?usp=sharing) that contains a `data` folder with the following structure:
+Download and unzip [this file](https://drive.google.com/file/d/1fVohSi2S74HCh5DitZ6SvmgUUMKHuolS/view?usp=sharing) that contains a `data` folder with the following structure:
 ```
 ├── C0
 ├── C1
@@ -12,7 +12,9 @@ Download and unzip [this file](https://drive.google.com/file/d/1v3bBiDm8FR7WB7B9
 └── ref
 ```
 
-Each directory `Cx` corresponds to an experimental condition (`C0` corresponds to the unprocessed condition and `C1` to `C4` correspond to the output of four systems). For the moment, these conditions correspond to the baseline systems, and C3 and C4 are identical.
+Each directory `Cx` corresponds to an experimental condition: 
+    -`C0` corresponds to the unprocessed condition (`eval/listening_test` subset of CHiME-5, after LUFS normalization and renaming using `C0_LUFS_normalization_and_renaming.py`).
+    - `C1` to `C4` correspond to the output of four systems. For the moment, these conditions correspond to the baseline systems, and C3 and C4 are identical.
 
 Each experimental condition contains a list of stimuli (with the same `wav` file names). The directory `ref` contains the reference conditions for the anchoring/training phase of the listening test. See Table 1 of [this paper](https://arxiv.org/pdf/2010.13200.pdf) for a description of the reference conditions.
 

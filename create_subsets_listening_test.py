@@ -24,7 +24,7 @@ from collections import Counter
 
 # S01_P04_63.wav does not contain speech
 # S01_P02_12.wav almost only contains laughings
-samples_to_ignore = ['S01_P04_63.wav', 'S01_P02_12.wav']
+samples_to_ignore = ['S01_P04_63_output.wav', 'S01_P02_12_output.wav']
 
 # number of subsets
 num_subsets = 4
@@ -61,7 +61,7 @@ for file in json_file_list:
         
     for mix in data:
         
-        wavfile = session + '_' + ref_spk + '_' + mix['mix'] + '.wav'
+        wavfile = session + '_' + ref_spk + '_' + mix['mix'] + '_output.wav'
         
         if wavfile in samples_to_ignore:
             continue
