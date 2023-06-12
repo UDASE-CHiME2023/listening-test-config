@@ -50,7 +50,7 @@ n_subjects = n_subsets*n_subjects_per_subset
 df_subsets = [] 
 
 for i in range(n_subsets):
-    df_subset = pd.read_csv('samples_subset_' + str(i+1) + '.csv')
+    df_subset = pd.read_csv('metadata/samples_subset_' + str(i+1) + '.csv')
     df_subsets.append(df_subset)
 
 
@@ -221,6 +221,7 @@ for file in file_list:
         
     # lines[0] = basename[:-5] + ' = ' + lines[0]
     lines[0] = 'all_trials' + ' = ' + lines[0]
+    lines[-1] = lines[-1] + ';'
     
     new_file = os.path.join(output_path, basename)
     with open(new_file, 'w') as f:

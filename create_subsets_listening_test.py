@@ -22,9 +22,31 @@ from collections import Counter
 
 #%% parameters
 
-# S01_P04_63.wav does not contain speech
-# S01_P02_12.wav almost only contains laughings
-samples_to_ignore = ['S01_P04_63_output.wav', 'S01_P02_12_output.wav']
+# we remove some samples that do not contain enough audible speech, 
+# contain almost only laughings, or the microphone is being manipulated
+samples_to_ignore = ['S01_P01_2_output.wav',
+                     'S01_P03_1_output.wav',
+                     'S01_P01_13_output.wav',
+                     'S01_P01_14_output.wav',
+                     'S01_P02_12_output.wav',
+                     'S01_P02_13_output.wav',
+                     'S01_P03_1_output.wav',
+                     'S01_P04_26_output.wav',
+                     'S01_P04_30_output.wav',
+                     'S01_P04_63_output.wav',
+                     'S21_P45_10_output.wav',
+                     'S21_P45_29_output.wav',
+                     'S21_P45_30_output.wav',
+                     'S21_P45_38_output.wav',
+                     'S21_P45_44_output.wav',
+                     'S21_P46_29_output.wav',
+                     'S21_P46_35_output.wav',
+                     'S21_P47_8_output.wav',
+                     'S21_P47_24_output.wav',
+                     'S21_P47_28_output.wav',
+                     'S21_P47_31_output.wav',
+                     'S21_P47_32_output.wav',
+                     ]
 
 # number of subsets
 num_subsets = 4
@@ -32,7 +54,7 @@ num_subsets = 4
 # target number of samples (elements) in each subset
 target_numel_per_subset = 32 # 58, 41, 32
 
-VERBOSE = False
+VERBOSE = True
 
 #%% dataframe with all samples
 
@@ -101,8 +123,9 @@ for file in json_file_list:
                session, location, transcription]
         
         df.loc[len(df)] = row
-        
-df.to_csv('samples_all.csv')
+
+df = df.sort_values(by=['wavfile'])
+df.to_csv('metadata/samples_all.csv')
 
 
 #%% split dataset into balanced subsets
@@ -210,7 +233,7 @@ for session in list_session:
 
 for i, df_subset in enumerate(df_subsets):
     distributions['subset_'+str(i+1)] = [round(x/len(df_subset)*100) for x in distributions['subset_'+str(i+1)]]
-    df_subset.to_csv('samples_subset_'+str(i+1)+'.csv')
+    df_subset.to_csv('metadata/samples_subset_'+str(i+1)+'.csv')
     
 #%% check dataframes are different
 
@@ -221,6 +244,27 @@ for i in range(len(df_subsets)):
         
         assert not np.any(df_subsets[i].isin(df_subsets[j]))
 
+def common_member(a, b):
+    a_set = set(a)
+    b_set = set(b)
+    if (a_set & b_set):
+        return True
+    else:
+        return False
+
+stimuli_subsets = []
+for i, df_subset in enumerate(df_subsets):
+    
+    stimuli_subset = list(df_subset['wavfile'].unique())
+    stimuli_subset.sort()
+    stimuli_subsets.append(stimuli_subset)
+
+for i in range(len(stimuli_subsets)):
+    for j in range(len(stimuli_subsets)):
+        
+        if j==i: continue
+    
+        assert not common_member(stimuli_subsets[i], stimuli_subsets[j])
 #%% plot distributions
 
 plt.close('all')
@@ -236,6 +280,10 @@ for i, label in enumerate(list(distributions.keys())):
     
 plt.xticks(rotation = 45)
 
+fig.set_figheight(7)
+fig.set_figwidth(10)
+plt.tight_layout()
+plt.savefig('data_splitting.png')
 #%% count conditions
 
 data_labels = list(distributions.keys())

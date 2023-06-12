@@ -25,20 +25,17 @@ The configuration of the listening test follows the protocol described in [this 
 
 ### Material
 
-We have a total of N = 239 audio samples (noisy speech signals) in the evaluation dataset that is going to be used for the listening test. These audio samples were extracted from the CHiME-5 eval set by looking for segments of 4 to 5 seconds that contain at least 3 seconds of speech and with 0.25 second without speech at the beginning and at the end of the segment. Additional constraints were taken into account to ensure an approximately balanced dataset in terms of recording session (S01 or S21), recording location (kitchen, dining room or living room), and speaker gender (FM, F, or M), leading to the following:
-- session: 
-    - 'S01': 119 samples
-    - 'S21': 120 samples
-- location: 
-    - 'dining': 79 samples
-    - 'living': 79 samples
-    - 'kitchen': 81 samples
-- gender: 
-    - 'FM': 183 samples
-    - 'F': 29 samples
-    - 'M': 27 samples
+We have a total of N = 220 audio samples (noisy speech signals) in the evaluation dataset that is going to be used for the listening test. These audio samples were extracted from the CHiME-5 eval set by looking for segments of 4 to 5 seconds that contain at least 3 seconds of speech and with 0.25 second without speech at the beginning and at the end of the segment. Additional constraints were taken into account to ensure an approximately balanced dataset in terms of recording session (S01 or S21), recording location (kitchen, dining room or living room), and speaker gender (FM, F, or M), leading to the following:
+```
+original - 220 samples
+...{'S01': 112, 'S21': 108}
+...{'dining': 77, 'living': 70, 'kitchen': 73}
+...{'FM': 169, 'F': 25, 'M': 26}
+```
 
 where FM indicates segments that contain both female and male speakers, and M (resp. F) indicates segments that contain only male (resp. female) speakers. 
+
+Note that the listening test set released to the challenge participants originally contained 241 audio samples, but manually removed some of them when they did not contain enough audible speech. 
 
 ### Partitioning the data in equivalent subsets (`create_subsets_listening_test.py`)
 
@@ -46,34 +43,29 @@ Each subject will undergo a listening test including C experimental conditions (
 
 The ideal experiment would test all listeners on all experimental conditions, using the entire corpus of speech materials for each experimental condition. However, in practice, the time limit imposed for each listener test restricts the number of trials per listener. Consequently, we have to separate listeners into groups (or panels) so that listeners as a whole rate the entire corpus of speech materials, but each group rates only a subset of that corpus. Furthermore, each group of listeners should hear an equivalent, though not identical, subset of those materials. 
 
-We target a total number of 32 subjects, separated in 4 panels of 8 listeners. Each panel will be associated with a subset of M audio samples, taken from the pool of N = 239 audio samples mentioned above. The number of audio samples M should be adjusted depending on the number C of experimental conditions and the time limit for each listener test.
+We target a total number of 32 subjects, separated in 4 panels of 8 listeners. Each panel will be associated with a subset of M audio samples, taken from the pool of N audio samples mentioned above. The number of audio samples M should be adjusted depending on the number C of experimental conditions and the time limit for each listener test.
 
 We designed the data splitting process to ensure equivalent subsets in terms of recording session (S01 or S21), recording location (kitchen, dining room or living room), and speaker gender (FM, F, or M). 
 
 We target C = 5 experimental conditions (4 submissions + the unprocessed noisy speech). We made the choice that each listener will rate all C experimental conditions (i.e., denoising algorithms + unprocessed noisy speech) for each of the M audio examples in his/here subset. This results in a total of M x C different audio samples that a listener will have to listen to (plus the reference conditions during the anchoring phase at the beginning of the test). Each audio sample will be rated according to 3 different rating scales (SIG, BAK, MOS). We should set the number of audio samples per subset to M = 32 in order to limit the duration of each listener test (see [this file](https://docs.google.com/spreadsheets/d/14monM79OnHGqvkA2yVHI1qAQLV9O2fDGG1m9KkoTD_E/edit?usp=sharing) for more information). Using `create_subsets_listening_test.py`, we created 4 subsets of M = 32 audio samples and obtain the following splitting:
 
 ```
-original - 239 samples
-...{'S01': 119, 'S21': 120}
-...{'dining': 79, 'living': 79, 'kitchen': 81}
-...{'FM': 183, 'F': 29, 'M': 27}
 subset_1 - 32 samples
-...{'S01': 15, 'S21': 17}
-...{'dining': 11, 'living': 11, 'kitchen': 10}
-...{'FM': 24, 'F': 4, 'M': 4}
+...{'S01': 16, 'S21': 16}
+...{'dining': 11, 'living': 10, 'kitchen': 11}
+...{'FM': 25, 'F': 3, 'M': 4}
 subset_2 - 32 samples
-...{'S01': 15, 'S21': 17}
-...{'dining': 11, 'living': 11, 'kitchen': 10}
-...{'FM': 24, 'F': 4, 'M': 4}
+...{'S01': 16, 'S21': 16}
+...{'dining': 11, 'living': 10, 'kitchen': 11}
+...{'FM': 25, 'F': 3, 'M': 4}
 subset_3 - 32 samples
-...{'S01': 15, 'S21': 17}
-...{'dining': 11, 'living': 11, 'kitchen': 10}
-...{'FM': 24, 'F': 4, 'M': 4}
+...{'S01': 16, 'S21': 16}
+...{'dining': 11, 'living': 10, 'kitchen': 11}
+...{'FM': 25, 'F': 3, 'M': 4}
 subset_4 - 32 samples
-...{'S01': 15, 'S21': 17}
-...{'dining': 11, 'living': 11, 'kitchen': 10}
-...{'FM': 24, 'F': 4, 'M': 4}
-
+...{'S01': 16, 'S21': 16}
+...{'dining': 11, 'living': 10, 'kitchen': 11}
+...{'FM': 25, 'F': 3, 'M': 4}
 ```
 
 See also the following figure that shows the distribution of the recording conditions in the original dataset (top plot) and in the four subsets (four bottom plots).
