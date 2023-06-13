@@ -93,23 +93,29 @@ for subject_ind in range(n_subjects):
     # dataframe containing the list of stimuli for the current subset
     df_stimuli = subject_data_list[subject_ind]['df_stimuli']
     
+    # list of stimuli (wav files)
+    stimuli = list(df_stimuli['wavfile'])
+    
+    # # shuffle 
+    # random.shuffle(stimuli)
+    
     # loop over stimuli
-    for index, row in df_stimuli.iterrows():  
+    for stimulus in stimuli:  
                     
         # loop over conditions
         for cond in conditions:
                         
             # path to the stimulus for the current condition
-            file = os.path.join(data_dir, cond, row.wavfile)
+            file = os.path.join(data_dir, cond, stimulus)
             
-            assert row.wavfile.split('_')[-1] == 'output.wav'
+            assert stimulus.split('_')[-1] == 'output.wav'
             
             # add row to dataframe
             # we do not fill in session and first_scale for the moment
             df_subject_exp.loc[len(df_subject_exp)] = [subject_data_list[subject_ind]['subset_id'], 'x', file, 'x']
         
-    # # shuffle rows
-    df_subject_exp = df_subject_exp.sample(frac=1, random_state=SEED, ignore_index=True)
+    # shuffle rows
+    df_subject_exp = df_subject_exp.sample(frac=1, random_state=subject_ind, ignore_index=True)
     
     # fill in session and first_scale columns
     n_samples_per_session = len(df_subject_exp)//n_sessions
@@ -143,6 +149,7 @@ for subject_ind in range(n_subjects):
     
     # list of wav files for the reference conditions
     ref_file_list = glob(os.path.join(data_dir, ref_condition, '*.wav'))
+    ref_file_list.sort()
     
     # shuffle file list
     random.shuffle(ref_file_list)

@@ -61,6 +61,7 @@ VERBOSE = True
 # path to the json file for the listening test
 json_path = '/data/recherche/python/UDASE-CHiME2023/unlabeled_data/json_files/eval'
 json_file_list = glob.glob(os.path.join(json_path, '*listening_test.json'))
+json_file_list.sort()
 
 list_columns_df = ['wavfile', 'duration', 'duration_0_spk', 
                     'duration_1_spk', 'duration_2_spk',
