@@ -15,7 +15,7 @@
 102,S01_P04_56_output.wav,4.99,1.81,2.05,1.13,0.00,2,P02 P03,FM,S01,kitchen,"(P03) Yeah I'll take this one out, put it in uh (P02) Okay. That'll probably fit in this one. (P03) Yeah. "
 88,S01_P04_42_output.wav,4.99,1.86,3.01,0.12,0.00,2,P01 P03,FM,S01,kitchen,(P01) Ooh. (P03) All right. So I've got the beans open now. (P01) Oh awesome. 
 101,S01_P04_55_output.wav,4.99,1.94,3.01,0.04,0.00,2,P01 P03,FM,S01,kitchen,(P01) Do you wanna take those plates back to the (P03) I can take that one. 
-192,S21_P47_0_output.wav,4.99,0.86,2.97,1.16,0.00,2,P45 P46,FM,S21,dining,"(P46) Is that was that one for the chips, Bennett? (P45) Hmm?  Y- uh, yeah. (P46) It's a ginormous bowl. "
+191,S21_P47_0_output.wav,4.99,0.86,2.97,1.16,0.00,2,P45 P46,FM,S21,dining,"(P46) Is that was that one for the chips, Bennett? (P45) Hmm?  Y- uh, yeah. (P46) It's a ginormous bowl. "
 174,S21_P46_21_output.wav,4.00,0.65,1.82,1.53,0.00,2,P45 P46 P47,M,S21,dining,"(P46) [laughs] That's why he hosted. (P47) Oh, wow. (P45) Yeah yeah. (P47) Are you (P45) Ulterior. (P47) So you can't do this again? "
 117,S21_P45_5_output.wav,4.99,1.33,2.58,1.08,0.00,2,P46 P47,FM,S21,living,(P47) Say it. (P46) Sushi go.  Puddings. [laughs] (P47) [laughs] 
 162,S21_P46_9_output.wav,4.99,1.43,2.19,1.37,0.00,2,P45 P48,FM,S21,living,(P48) Sushi Go. (P45) Sushi Go! (P48) Reveal? (P45) Yeah. 
@@ -25,9 +25,9 @@
 152,S21_P45_45_output.wav,4.99,1.39,3.60,0.00,0.00,1,P46,F,S21,living,"(P46) Oh, shoot, I think it's going to be pointless.  No! "
 177,S21_P46_24_output.wav,4.69,1.52,3.17,0.00,0.00,1,P45,M,S21,living,(P45) Did I get some good  What!  Didn't give me diddly kwat.  Crap. 
 144,S21_P45_35_output.wav,4.00,0.85,2.86,0.29,0.00,2,P45 P46 P47,FM,S21,kitchen,"(P45) Uh I I can do that later. (P46) But then we need, like (P47) We have to play a game, right? "
-209,S21_P47_18_output.wav,4.78,1.49,3.27,0.02,0.00,2,P45 P46 P48,FM,S21,kitchen,"(P48) You don't know? (P45) What do you want? Max? (P46) No, yeah, around there.  We'll see. "
+208,S21_P47_18_output.wav,4.78,1.49,3.27,0.02,0.00,2,P45 P46 P48,FM,S21,kitchen,"(P48) You don't know? (P45) What do you want? Max? (P46) No, yeah, around there.  We'll see. "
 142,S21_P45_33_output.wav,4.05,1.05,3.00,0.00,0.00,1,P46 P47,FM,S21,kitchen,"(P47) Maybe you're thinking about something else. (P46) Yeah, I am, but I can't talk about that right now. (P47) Oh. "
 134,S21_P45_23_output.wav,4.99,1.77,2.14,1.08,0.00,2,P46 P47,FM,S21,kitchen,"(P46) Do you work today, Charles?  No, you don't work. (P47) I did. Mhm. (P46) Oh, you did? "
 168,S21_P46_15_output.wav,4.44,0.54,2.76,0.99,0.15,3,P45 P47 P48,FM,S21,kitchen,"(P48) You just saw the sale and you were like, I want to do this? (P47) I've been thinking for a few months to try it out and (P48) Oh. (P45) [inaudible 0:40:55.21] "
 166,S21_P46_13_output.wav,4.99,1.50,3.18,0.31,0.00,2,P45 P48,FM,S21,kitchen,"(P48) Yeah, so it gets cooked. (P45) Oh.  [laughs] I'm learning. [laughs] "
-188,S21_P46_37_output.wav,4.71,1.20,3.51,0.00,0.00,1,P45 P47,M,S21,kitchen,"(P47) All right. (P45) You could use this one, and just, use this one? (P47) Okay. "
+185,S21_P46_33_output.wav,4.99,1.67,3.32,0.00,0.00,1,P45 P47,M,S21,kitchen,(P47) Why is there a bottle cap inside your recycling? (P45) I dunno. 

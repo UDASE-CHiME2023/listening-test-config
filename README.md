@@ -25,12 +25,12 @@ The configuration of the listening test follows the protocol described in [this 
 
 ### Material
 
-We have a total of N = 220 audio samples (noisy speech signals) in the evaluation dataset that is going to be used for the listening test. These audio samples were extracted from the CHiME-5 eval set by looking for segments of 4 to 5 seconds that contain at least 3 seconds of speech and with 0.25 second without speech at the beginning and at the end of the segment. Additional constraints were taken into account to ensure an approximately balanced dataset in terms of recording session (S01 or S21), recording location (kitchen, dining room or living room), and speaker gender (FM, F, or M), leading to the following:
+We have a total of N = 219 audio samples (noisy speech signals) in the evaluation dataset that is going to be used for the listening test. These audio samples were extracted from the CHiME-5 eval set by looking for segments of 4 to 5 seconds that contain at least 3 seconds of speech and with 0.25 second without speech at the beginning and at the end of the segment. Additional constraints were taken into account to ensure an approximately balanced dataset in terms of recording session (S01 or S21), recording location (kitchen, dining room or living room), and speaker gender (FM, F, or M), leading to the following:
 ```
-original - 220 samples
-...{'S01': 112, 'S21': 108}
-...{'dining': 77, 'living': 70, 'kitchen': 73}
-...{'FM': 169, 'F': 25, 'M': 26}
+original - 219 samples
+...{'S01': 112, 'S21': 107}
+...{'dining': 77, 'living': 70, 'kitchen': 72}
+...{'FM': 169, 'F': 25, 'M': 25}
 ```
 
 where FM indicates segments that contain both female and male speakers, and M (resp. F) indicates segments that contain only male (resp. female) speakers. 
