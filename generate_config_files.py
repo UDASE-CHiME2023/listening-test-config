@@ -19,6 +19,7 @@ data_dir = 'data'
 
 # list of conditions
 conditions = [os.path.basename(x) for x in glob(data_dir + '/C*', recursive = True)]
+conditions.sort()
 
 # unprocessed condition
 unprocessed_condition = 'C0'
@@ -218,6 +219,7 @@ if not os.path.isdir(output_path):
     os.mkdir(output_path)
 
 file_list = glob(os.path.join(input_path, '*.json'))
+file_list.sort()
 
 for file in file_list:
     
