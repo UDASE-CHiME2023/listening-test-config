@@ -25,17 +25,17 @@ The configuration of the listening test follows the protocol described in [this 
 
 ### Material
 
-We have a total of N = 219 audio samples (noisy speech signals) in the evaluation dataset that is going to be used for the listening test. These audio samples were extracted from the CHiME-5 eval set by looking for segments of 4 to 5 seconds that contain at least 3 seconds of speech and with 0.25 second without speech at the beginning and at the end of the segment. Additional constraints were taken into account to ensure an approximately balanced dataset in terms of recording session (S01 or S21), recording location (kitchen, dining room or living room), and speaker gender (FM, F, or M), leading to the following:
+We have a total of N = 196 audio samples (noisy speech signals) in the evaluation dataset that is going to be used for the listening test. These audio samples were extracted from the CHiME-5 eval set by looking for segments of 4 to 5 seconds that contain at least 3 seconds of speech and with 0.25 second without speech at the beginning and at the end of the segment. Additional constraints were taken into account to ensure an approximately balanced dataset in terms of recording session (S01 or S21), recording location (kitchen, dining room or living room), and speaker gender (FM, F, or M), leading to the following:
 ```
-original - 219 samples
-...{'S01': 112, 'S21': 107}
-...{'dining': 77, 'living': 70, 'kitchen': 72}
-...{'FM': 169, 'F': 25, 'M': 25}
+original - 196 samples
+...{'S01': 97, 'S21': 99}
+...{'dining': 65, 'living': 65, 'kitchen': 66}
+...{'FM': 158, 'F': 19, 'M': 19}
 ```
 
 where FM indicates segments that contain both female and male speakers, and M (resp. F) indicates segments that contain only male (resp. female) speakers. 
 
-Note that the listening test set released to the challenge participants originally contained 241 audio samples, but manually removed some of them when they did not contain enough audible speech. 
+Note that the listening test set released to the challenge participants originally contained 241 audio samples, but manually removed some of them for various reasons: not enough audible speech, not enough words, almost only laughings, microphone  being manipulated, chewing heavily.
 
 ### Partitioning the data in equivalent subsets (`create_subsets_listening_test.py`)
 
@@ -53,19 +53,19 @@ We target C = 5 experimental conditions (4 submissions + the unprocessed noisy s
 subset_1 - 32 samples
 ...{'S01': 16, 'S21': 16}
 ...{'dining': 11, 'living': 10, 'kitchen': 11}
-...{'FM': 25, 'F': 3, 'M': 4}
+...{'FM': 27, 'F': 3, 'M': 2}
 subset_2 - 32 samples
 ...{'S01': 16, 'S21': 16}
 ...{'dining': 11, 'living': 10, 'kitchen': 11}
-...{'FM': 25, 'F': 3, 'M': 4}
+...{'FM': 27, 'F': 3, 'M': 2}
 subset_3 - 32 samples
 ...{'S01': 16, 'S21': 16}
 ...{'dining': 11, 'living': 10, 'kitchen': 11}
-...{'FM': 25, 'F': 3, 'M': 4}
+...{'FM': 27, 'F': 3, 'M': 2}
 subset_4 - 32 samples
 ...{'S01': 16, 'S21': 16}
 ...{'dining': 11, 'living': 10, 'kitchen': 11}
-...{'FM': 25, 'F': 3, 'M': 4}
+...{'FM': 27, 'F': 3, 'M': 2}
 ```
 
 See also the following figure that shows the distribution of the recording conditions in the original dataset (top plot) and in the four subsets (four bottom plots).

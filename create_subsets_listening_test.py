@@ -22,38 +22,28 @@ from collections import Counter
 
 #%% parameters
 
-# we remove some samples that do not contain enough audible speech, 
-# contain almost only laughings, or the microphone is being manipulated
-samples_to_ignore = ['S01_P01_2_output.wav',
-                     'S01_P03_1_output.wav',
-                     'S01_P01_13_output.wav',
-                     'S01_P01_14_output.wav',
-                     'S01_P02_12_output.wav',
-                     'S01_P02_13_output.wav',
-                     'S01_P03_1_output.wav',
-                     'S01_P04_26_output.wav',
-                     'S01_P04_30_output.wav',
-                     'S01_P04_63_output.wav',
-                     'S21_P45_10_output.wav',
-                     'S21_P45_29_output.wav',
-                     'S21_P45_30_output.wav',
-                     'S21_P45_38_output.wav',
-                     'S21_P45_44_output.wav',
-                     'S21_P46_29_output.wav',
-                     'S21_P46_35_output.wav',
-                     'S21_P46_37_output.wav',
-                     'S21_P47_8_output.wav',
-                     'S21_P47_24_output.wav',
-                     'S21_P47_28_output.wav',
-                     'S21_P47_31_output.wav',
-                     'S21_P47_32_output.wav',
-                     ]
+# we remove some samples for various reasons: do not contain enough audible speech, 
+# not enough words, contain almost only laughings, the microphone is being manipulated,
+# chewing heavily
+
+df_annot = pd.read_csv('metadata/samples_manual_annotations.csv')
+for index, row in df_annot.iterrows():
+    df_annot.iloc[index]['wavfile'] = os.path.basename(df_annot.iloc[index]['wavfile'])
+    
+    
+samples_to_ignore = list(df_annot[(df_annot['rating']=='C') | (df_annot['rating']=='D')]['wavfile'])
+
 
 # number of subsets
 num_subsets = 4
 
 # target number of samples (elements) in each subset
-target_numel_per_subset = 32 # 58, 41, 32
+############################################################
+### SETTING 33 BUT THE RESULT WILL BE 32 
+# The handling of the sampling proportion for each condition
+# should be improved to address this issue.
+target_numel_per_subset = 33 
+#############################################################
 
 VERBOSE = True
 
@@ -179,7 +169,7 @@ for session in list_session:
                 # proportion of samples in the original dataset for this 
                 # combination of effects
                 proportion = numel/total_numel
-                
+                                
                 # number of samples to draw for each subset
                 numel_to_sample = int(np.rint(target_numel_per_subset*proportion))
                 
