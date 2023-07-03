@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+Script to check the final config files that were generated in ../config_files.
 """
 
 SEED = 0
@@ -16,7 +17,7 @@ import json
 import shutil
 import csv
 
-config_dir = 'config_files'
+config_dir = '../config_files'
 
 # number of subjects for listening test
 num_subjects = 32
@@ -58,19 +59,19 @@ assert num_subsets*numel_per_subset + num_stim_anchoring == len(stimuli_list)
 
 #%% copy files to listen for checking
 
-audio_input_dir = 'data/C0'
-audio_output_dir = '/data/tmp/to_listen'
-if not os.path.isdir(audio_output_dir):
-    os.makedirs(audio_output_dir)
+# audio_input_dir = 'data/C0'
+# audio_output_dir = '/data/tmp/to_listen'
+# if not os.path.isdir(audio_output_dir):
+#     os.makedirs(audio_output_dir)
     
-for file in stimuli_list:
+# for file in stimuli_list:
     
-    if file[0] == 'i':
-        continue
+#     if file[0] == 'i':
+#         continue
     
-    src = os.path.join(audio_input_dir, file)
-    dst = os.path.join(audio_output_dir, file)
-    shutil.copyfile(src, dst)
+#     src = os.path.join(audio_input_dir, file)
+#     dst = os.path.join(audio_output_dir, file)
+#     shutil.copyfile(src, dst)
 
 #%% create csv for results
 
@@ -146,7 +147,7 @@ for condition in conditions:
 for scale in scales:
     
     # open the file in the write mode
-    with open('results/results_' + scale + '.csv', 'w') as f:
+    with open('test_results_' + scale + '.csv', 'w') as f:
         
         # create the csv writer
         writer = csv.writer(f)

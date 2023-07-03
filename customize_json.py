@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun 19 08:19:10 2023
-
-@author: sleglaive
+This script is used to customize the json files created from generate_config_files.py,
+following Matthieu's instruction. This customization is to ease the reading of the
+config files by the listening test software.
 """
 
 import pandas as pd

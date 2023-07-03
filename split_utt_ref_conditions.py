@@ -18,6 +18,10 @@ The time instant used to separate the two utterances in each speech sample is:
 This script splits the original audio files of the reference conditions in two
 separate utterances.
 
+WARNING: The reference conditions should be further normalized to -30 LUFS for
+the UDASE listening test. The script to perform this normalization is in the
+py folder of the listening test repository.
+
 [1] Naderi, Babak and Cutler, Ross, "Subjective Evaluation of Noise Suppression
  Algorithms in Crowdsourcing", Interspeech, 2021.
 

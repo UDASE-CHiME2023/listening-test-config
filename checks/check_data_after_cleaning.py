@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-script to check the distribution of the data after manually discarding some samples
+Script to check the distribution of the data after manually discarding some samples.
+Samples to discard are labeled as 'C' or 'D' in metadata/samples_manual_annotations.csv
 """
 
 

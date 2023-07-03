@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-
+Conversion of linear to db scale for the slider in the volume adjustment
+part of the listening test software.
 """
 
 import numpy as np

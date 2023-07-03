@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+
+This script generates the config file for each of the 32 subjects using the 
+subsets created from create_subset_listening_test.py.
+
 """
 
 SEED = 0

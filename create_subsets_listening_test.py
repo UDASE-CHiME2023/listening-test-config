@@ -1,10 +1,18 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+This script creates 4 subsets of 32 samples from the material in 
+CHiME-5/eval/listening_test. Constraints are taken into account to
+obtain subsets that match with the distribution of CHiME-5/eval/listening_test
+ in terms of session, location, and gender. This results in balanced subsets.
+
+
 From Léonie: Les locuteurs sont accessibles dans "words", le nombre de personnes qui parlent 
 en même temps dans "num_spk" et le lieu dans "location". J'ai aussi ajouté les 
 temps où x personnes parlent simultanément (0_spk_time, 1_spk_time, etc.) et 
 le sexe des locuteurs (F, M ou FM).
+
+
 """
 
 SEED = 0
